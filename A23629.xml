@@ -1,0 +1,2173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The abridgement of the charter of the city of London being every free-man's privilege / exactly translated from the original record and rendered faithfully into English according to the said record itself from the time of William the Conquerour ... to the time of our now Sovereign Lord King Charles the Second ...</title>
+            <title>Laws, etc.</title>
+            <author>City of London (England).</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 154 KB of XML-encoded text transcribed from 43 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A23629</idno>
+            <idno type="STC">Wing A102</idno>
+            <idno type="STC">ESTC R28074</idno>
+            <idno type="EEBO-CITATION">10390221</idno>
+            <idno type="OCLC">ocm 10390221</idno>
+            <idno type="VID">44932</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A23629)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44932)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1372:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The abridgement of the charter of the city of London being every free-man's privilege / exactly translated from the original record and rendered faithfully into English according to the said record itself from the time of William the Conquerour ... to the time of our now Sovereign Lord King Charles the Second ...</title>
+                  <title>Laws, etc.</title>
+                  <author>City of London (England).</author>
+               </titleStmt>
+               <extent>[7], 76 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Corporation of London --  Charters, grants, privileges.</term>
+               <term>Municipal charters --  England --  London.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:44932:1" rendition="simple:additions"/>
+            <p>THE Abridgement OF THE CHARTER OF THE City of London; Being every FREE-MAN'S PRIVILEGE.</p>
+            <p>Exactly Tranſlated from the Original <hi>Record,</hi> and ren<g ref="char:EOLhyphen"/>dred faithfully into <hi>Engliſh</hi> according to the ſaid <hi>Re<g ref="char:EOLhyphen"/>cord</hi> it ſelf, from the time of <hi>William</hi> the <hi>Conquerour,</hi> and other Kings and Queens of <hi>ENGLAND,</hi> to the time of our now Sovereign Lord King <hi>CHARLES</hi> the Second: Comprehending the whole <hi>Charter,</hi> only the Words of <hi>Form</hi> left out.</p>
+            <p>Of great Uſe and Benefit to all Citizens of the ſaid City in general, and other Perſons, being Foreign Merchants.</p>
+            <p>
+               <hi>London,</hi> Printed in the Year 1680.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:44932:2"/>
+            <pb facs="tcp:44932:2"/>
+            <head>TO THE READER.</head>
+            <p>IN this <hi>Abridgement</hi> of the <hi>Charter</hi> of the <hi>City</hi> of <hi>London,</hi> the Reader may well think all things elſe needleſs only the <hi>Title,</hi> knowing of what great <g ref="char:V">Ʋ</g>ſe and Antiquity the ſame is, and may be to every <hi>Citizen</hi> of this <hi>Famous City,</hi> if not to others.</p>
+            <p>It will be unneceſſary here to give the Reader an Account of the <hi>firſt Foundation</hi> of this <hi>Famous City</hi> of <hi>London,</hi> or how at firſt it came to take that <hi>Name;</hi> but ſhall leave him to thoſe Fa<g ref="char:EOLhyphen"/>mous <hi>Antiquaries,</hi> who at large have ſet it forth, <hi>viz.</hi> the Learned <hi>Cambden, Stow, Speed,</hi> and di<g ref="char:EOLhyphen"/>vers others, to whom I refer the Reader.</p>
+            <p>As to the next, which is the <hi>Antiquity</hi> of this <hi>Charter,</hi> I think it need not be queſtioned; For the firſt <hi>beginning</hi> of it ſhews its <hi>Antiquity:</hi> which was the firſt <hi>Grant</hi> from <hi>William</hi> the <hi>Con<g ref="char:EOLhyphen"/>querour,</hi>
+               <pb facs="tcp:44932:3"/> and his Son <hi>William Rufus,</hi> the which I do not think amiſs to recite in the ſame <hi>Saxon</hi> Words as the Grant was made, to ſatisfie the Rea<g ref="char:EOLhyphen"/>der, which follows after in <hi>Engliſh.</hi>
+            </p>
+            <p>
+               <hi>William Kyng grete William Biſhop and Godfregis Portere and eall the Bo<g ref="char:EOLhyphen"/>rough waren bynde London Franchiſce et Engliſte &amp; ichkyd eth ye Ick yill ye grete be ealbra yeara taga yee die yegret yer an en Edwardis dage Kynge end ick yill yett ſulke childe be his fader yrfun achter his fader dage and ick uel geyolyan that eugage Man othe doigyran gbede god ye be helde.</hi>
+            </p>
+            <p>Engliſhed thus:</p>
+            <p>William, <hi>King, Greet</hi> William, <hi>Biſhop, and</hi> God<g ref="char:EOLhyphen"/>frey Porters, <hi>and all the B<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>geſſes in</hi> London, French <hi>and</hi> Engliſh. <hi>And I grant you that I will, That you do enjoy all the Laws that you enjoyed in King</hi> Edward's <hi>dayes: And I will that each Child be his Fathers Heir, and I will not ſuffer that any man do you wrong; and God you keep.</hi>
+            </p>
+            <p>By this <hi>Charter</hi> in the <hi>Saxon Tongue,</hi> the Rea<g ref="char:EOLhyphen"/>der may ſee how <hi>Antient,</hi> and of what great <hi>Anti<g ref="char:EOLhyphen"/>quity</hi>
+               <pb facs="tcp:44932:3"/> the Charter of this <hi>Famous City</hi> of <hi>London</hi> is, which you ſee that <hi>Edward</hi> the <hi>Confeſſor</hi> granted to the City of <hi>London,</hi> but what that was, or what it did contain, is not Extant; but for certain long before him there was <hi>Charters</hi> granted both by the <hi>Romans, Saxons,</hi> and <hi>Danes,</hi> although <hi>An<g ref="char:EOLhyphen"/>tiquity</hi> hath worn them out; but it may ſuffice that it is almoſt ſix hundred years ago ſince the firſt granting of this Charter. Therefore what hath been ſaid already, I think may ſatisfie the Reader how <hi>An<g ref="char:EOLhyphen"/>tient</hi> Charters are, and eſpecially this of the City of <hi>London.</hi>
+            </p>
+            <p>But now, to this preſent <hi>Charter</hi> of which we treat, the which hath been with great <hi>Induſtry</hi> and <hi>Pains</hi> moſt carefully and exactly <hi>Abridged</hi> from the <hi>Roll</hi> it ſelf, ſome perhaps may ſuſpect the truth of it; But if any ſuch there be, they may be well ſatisfied, if they take but any part of the ſame (for a little Charge, and no great Pains) at the Chappel of the <hi>Rolls,</hi> if they pleaſe to make ſearch for the ſame, they will find that generally they are <hi>Vere &amp; cum Authoritate dicta.</hi>
+            </p>
+            <p>Some may wonder, why this Charter of the <hi>City</hi> of <hi>London</hi> (if of ſo great <g ref="char:V">Ʋ</g>ſe to every <hi>Citizen</hi>) hath been kept in the <hi>Dark,</hi> and not <hi>divulged</hi> for the <hi>Intent</hi> it was granted? It is truth, it hath ſtill lain in the Breaſts of the <hi>Great Ones</hi> to keep them to themſelves; for,
+<pb facs="tcp:44932:4"/> if any <hi>Benefit</hi> or <hi>Profit</hi> ſhould ariſe by any of the <hi>Grants</hi> and <hi>Gifts</hi> in this <hi>Charter,</hi> to be ſure it muſt be ſmothered, and the <hi>Little ones</hi> muſt know nothing thereof; but if there were any <hi>Fine, Puniſhment,</hi> or other <hi>Penalties</hi> by this <hi>Charter</hi> to be inflicted upon any <hi>Free-man,</hi> to be ſure he ſhould know of that.</p>
+            <p>I am perſwaded, that many of the <hi>Great Ones</hi> have heard of a <hi>Charter</hi> they had, but what is contained in it they know nothing of, but by <hi>Hear<g ref="char:EOLhyphen"/>ſay.</hi> Now this being made <hi>publick,</hi> that every One, both <hi>Rich</hi> and <hi>Poor,</hi> may have the ſame <hi>Be<g ref="char:EOLhyphen"/>nefit</hi> as the other, and that at a <hi>Small Price,</hi> and that the <hi>Poor</hi> by this may receive the Benefit of the <hi>Charter,</hi> if any be due to them, as well as the <hi>Puniſhment:</hi> for it would be very hard that any <hi>Free-born Subject</hi> ſhould ſuffer for an <hi>Offence</hi> he never knew a <hi>Law</hi> againſt; but here, how many have ſuffered under this <hi>Charter,</hi> that never heard of ſuch an <hi>Offence?</hi> It is true, there are ſeveral <hi>Of<g ref="char:EOLhyphen"/>fences</hi> that are neither in the <hi>Statute-Law,</hi> or by <hi>Charter;</hi> ſome there be which are by the <hi>Common-Law:</hi> ſo in <hi>Cities</hi> and <hi>Corporations</hi> there are the <hi>By-Laws,</hi> which <hi>By-Laws</hi> commonly are confirmed by their <hi>Charter.</hi>
+            </p>
+            <pb facs="tcp:44932:4"/>
+            <p>There is no queſtion, but ſome in theſe <hi>Times</hi> will <hi>quarrel,</hi> and ſay, Why is this publiſh'd abroad <hi>now,</hi> and not <hi>before,</hi> for theſe are <hi>Troubleſome Times,</hi> and we have had <hi>Contentions</hi> enough late<g ref="char:EOLhyphen"/>ly, therefore let us live in <hi>Ignorance</hi> ſtill?</p>
+            <p>This <hi>Objection</hi> may be anſwered very well by our <hi>Engliſh</hi> Poet.</p>
+            <q>
+               <l>When Civil <hi>Dudgeon</hi> firſt grew high,</l>
+               <l>And men <hi>fell out</hi> they knew not why,</l>
+               <l>When hard words, Jealouſies and Fears,</l>
+               <l>Set Folks together by the Ears, <hi>&amp;c.</hi>
+               </l>
+            </q>
+            <p>But, I think, theſe are not Times to <hi>quarrel</hi> in, or to meddle <hi>with Government,</hi> but all may be <hi>quiet</hi> if they will, for under a more <hi>Gracious</hi> and <hi>Mer<g ref="char:EOLhyphen"/>ciful Prince</hi> no People ever lived, if we know when we are well.</p>
+            <p>But I hope this preſent <hi>Small Book</hi> will be ac<g ref="char:EOLhyphen"/>ceptable to all, although an <hi>Abridgment,</hi> there be<g ref="char:EOLhyphen"/>ing nothing left out that might be <hi>uſeful;</hi> but only theſe <hi>words</hi> of <hi>Form,</hi> which would be <hi>tedious</hi> to the Reader to trouble himſelf withal, and but ſwell the price of the <hi>Book.</hi> There is nothing of <hi>Diſſention</hi> in it, it being all <hi>Record</hi> it ſelf, the which, I am ſure, cannot err from the <hi>Truth.</hi>
+            </p>
+            <pb facs="tcp:44932:5"/>
+            <p>I dare not at preſent ſay any more, for 'tis high<g ref="char:EOLhyphen"/>ly preſumed the <hi>Book</hi> will <hi>praiſe</hi> it ſelf. All which I leave to the Judgment of the <hi>Judicious Reader;</hi> and hope it may find good Entertainment amongſt the <hi>worthy Citizens.</hi>
+            </p>
+            <closer>
+               <salute>Farewel.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:44932:5"/>
+            <head>THE PRIVILEGES OF THE CITY of <hi>LONDON.</hi>
+            </head>
+            <div type="part">
+               <head>
+                  <hi>WILLIAM</hi> Conq. <hi>Chart.</hi> 1.</head>
+               <p>THAT every one enjoy all the Laws that they enjoyed in King <hi>Edward</hi>'s dayes, and that each Child be his Father's Heir after his Fa<g ref="char:EOLhyphen"/>ther's Death, and none to do Wrong.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Chart.</hi> 2. <hi>HENRY</hi> 1.</head>
+               <p>Grants to the Citizens of <hi>London,</hi> to hold <hi>Middleſex</hi> to Farm for 300 <hi>l.</hi> on Account that they place whom they will themſelves Sheriffs, for keeping the Pleas of the Crown, and none other to be Juſtice over them.</p>
+               <p>None of the Citizens to plead without the Walls of <hi>London,</hi> and to be free from Scot and Lot.</p>
+               <p>If a Citizen be Impleaded, he ſhall diſcharge himſelf by Oath.</p>
+               <p>None to lodge within the Walls of the City by Force.</p>
+               <pb n="2" facs="tcp:44932:6"/>
+               <p>A Citizen to be Toll-free throughout <hi>England,</hi> and to hold their Sokes and Cuſtomes; and a Stranger to give Cuſtome to none but to whom the Soke appertaineth.</p>
+               <p>He is not to be adjudged in Amerciaments of Money, but of 100 <hi>l.</hi> (meaning the Pleas which appertain to Money.)</p>
+               <p>No Miskenning to be in the Courts of the City, and the <hi>Huſtings</hi> to ſit every <hi>Munday.</hi>
+               </p>
+               <p>Every Citizen ſhall enjoy his Goods, according to the Law of the City.</p>
+               <p>Debts owing in <hi>London,</hi> to be diſcharged in <hi>London,</hi> or elſe the Citizen to whom the Debt is due may take their Goods.</p>
+               <p>The Citizens may Hunt in <hi>Chiltrey, Surrey,</hi> and <hi>Middle<g ref="char:EOLhyphen"/>ſex.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>HENRY</hi> 2.</head>
+               <p>That none of the Citizens plead without the Walls, except in Foreign Tenures, except Monyers.</p>
+               <p>To be acquit of Murther, and not to wage Battail, and to diſcharge themſelves of the Pleas of the Crown.</p>
+               <p>None to lodge by Force.</p>
+               <p>To be free from Toll throughout <hi>England.</hi>
+               </p>
+               <p>No Amerciament but according to the Law of the City.</p>
+               <p>To be no Miskenning.</p>
+               <p>The <hi>Huſtings</hi> to be kept once a Week.</p>
+               <p>Right is to be done to the Citizens of their Lands and Debts.</p>
+               <p>To have their <hi>Huſtings</hi> kept whereſoever they had the ſame formerly.</p>
+               <p>The Citizens are to be Toll-free.</p>
+               <p>Alſo, for the Advancement of the ſaid City, they are to be free of <hi>Briſtol.</hi>
+               </p>
+               <pb n="3" facs="tcp:44932:6"/>
+               <p>And confirms to them their Cuſtomes: to hold from him and his Heirs.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>RICHARD</hi> 1. <hi>Chart.</hi> 1.</head>
+               <p>None to plead without the Walls (except Monyers.)</p>
+               <p>To be acquit of Murther, and none to wage Battail.</p>
+               <p>That they may diſcharge themſelves of the Pleas be<g ref="char:EOLhyphen"/>longing to the Crown.</p>
+               <p>None to take Lodgings by force.</p>
+               <p>To be free from Toll and Beſtage throughout <hi>England,</hi> and all Sea-Ports.</p>
+               <p>None to be adjudged of Amerciaments of Money, but according to the Law of the City.</p>
+               <p>That there be no Miskenning in any Plea within the City.</p>
+               <p>The <hi>Huſtings</hi> to be kept once a Week.</p>
+               <p>That Right be done according to the Cuſtome of the City, of all their Lands and Tenements, and of their Debts.</p>
+               <p>If any in all <hi>England</hi> ſhall take Toll of the men of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> after that, he ſhall fail of Right; and the Sheriff of <hi>London</hi> may take his Goods therefore at <hi>London.</hi>
+               </p>
+               <p>To have their <hi>Huſtings</hi> where they formerly had the ſame.</p>
+               <p>And confirms to them their Liberties and Free Cu<g ref="char:EOLhyphen"/>ſtoms, as they had the ſame formerly. To hold of him and his Heirs.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>RICHARD</hi> 1. <hi>Chart.</hi> 2.</head>
+               <p>That all <hi>Weares</hi> be removed in the <hi>Thames,</hi> and that none be put any way within the <hi>Thames;</hi> and Quit-claims the Keepers of the <hi>Tower</hi> of <hi>London,</hi> who was wont to receive of the ſaid <hi>Weares;</hi> and they are not to exact any thing for the future. And confirms the ſame.</p>
+            </div>
+            <div type="part">
+               <pb n="4" facs="tcp:44932:7"/>
+               <head>JOHN, Chart. <hi>1.</hi>
+               </head>
+               <p>None to plead without the Walls, (his Monyers and Miniſters excepted.)</p>
+               <p>Grants an Acquittal of Murther within the City, and in <hi>Portſoken,</hi> and none ſhall wage Battail.</p>
+               <p>That they may diſcharge themſelves of the Pleas of the Crown.</p>
+               <p>No man ſhall take any Lodgings by Force, or delive<g ref="char:EOLhyphen"/>ry of the Marſhal.</p>
+               <p>Citizens of <hi>London</hi> to be quit from Toll and Beſtage throughout all his Lands, on this ſide, and beyond the Seas.</p>
+               <p>That none be judged for Amerciaments of Money, but according to the Law of the City.</p>
+               <p>That there be no Miskenning in any Plea.</p>
+               <p>The <hi>Huſtings</hi> to be kept once every Week.</p>
+               <p>Juſtly to have their Lands and Tenures, and Premiſſes, and all other their Debts, whoſoever owe them; and that Right be holden according to the Cuſtom of the ſaid City, of all their Debts due at <hi>London.</hi>
+               </p>
+               <p>If any take Toll of the men of <hi>London,</hi> after that he ſhall fail of Right, may take Goods therefore at <hi>London.</hi>
+               </p>
+               <p>That they may have their Huntings as formerly.</p>
+               <p>To be free of <hi>Briſtol,</hi> and <hi>Childwite,</hi> and of <hi>Tereſgite,</hi> and <hi>Scotale,</hi> ſo as the Sheriff, nor any other Bailiff may make any <hi>Scotale.</hi>
+               </p>
+               <p>And grants the Cuſtoms they had in the Reign of <hi>Henry</hi> the Firſt. To hold of him and his Heirs.</p>
+            </div>
+            <div type="part">
+               <pb n="5" facs="tcp:44932:7"/>
+               <head>JOHN, Chart. <hi>2.</hi>
+               </head>
+               <p>Confirms to the Citizens of <hi>London</hi> the Sherifwick of <hi>London</hi> and <hi>Middleſex,</hi> To hold to them and their Heirs, of him and his Heirs, paying 300 <hi>l.</hi> at <hi>Eaſter</hi> and <hi>Michael<g ref="char:EOLhyphen"/>mas,</hi> ſaving to them their Liberties and Free Cuſtoms.</p>
+               <p>A Grant to the Citizens of <hi>London.</hi>
+               </p>
+               <p>That they make Sheriffs whom they will, and to preſent to the Juſtices of his Exchequer, of thoſe things (to whom the ſame belongs) whereof they ought to Anſwer, and ſatisfie the Amerciament.</p>
+               <p>That the Sheriffs for the time being ſhall not be amer<g ref="char:EOLhyphen"/>ced above 20 <hi>l.</hi> for any Offence they ſhall commit, but if they do any Offence that they ought to loſe their Lives, they ſhall be adjudged as they ought, according to the Law of the City, and the Sheriffs to anſwer to the Juſtices of the Exchequer.</p>
+               <p>Becauſe the Sherifwick of the City of <hi>London</hi> was in Ancient Times farmed at 300 <hi>l.</hi> he Confirms the ſame, To hold of him and his Heirs.</p>
+               <p>Forbids, that none do any damage to the Citizens of <hi>London;</hi> of thoſe things which to the Sherifwick do, or were accuſtomed to appertain, the ſame ſhall be acquit<g ref="char:EOLhyphen"/>ted to the Citizens of <hi>London</hi> out of the Exchequer.</p>
+            </div>
+            <div type="part">
+               <head>JOHN, Chart. <hi>3.</hi>
+               </head>
+               <p>The Weares in the <hi>Thames</hi> and <hi>Medway</hi> to be removed, and none to be put in the <hi>Thames.</hi>
+               </p>
+               <p>That no Keeper of the Tower Exact any thing for the Weares. And Confirms the ſame.</p>
+            </div>
+            <div type="part">
+               <pb n="6" facs="tcp:44932:8"/>
+               <head>JOHN, Chart. <hi>4.</hi>
+               </head>
+               <p>The Barons of <hi>London</hi> to chooſe a Major, who is to be preſented to him or his Juſtices, and the ſaid Major to ſwear to be faithful to him; and at the end of the year to amove him, and ſubſtitute another, or the ſame to re<g ref="char:EOLhyphen"/>turn to Us or our Juſtices. And Confirms the Liberties of the ſaid City. Saving the Chamberlainſhip to the King.</p>
+            </div>
+            <div type="part">
+               <head>JOHN, Chart. <hi>5.</hi>
+               </head>
+               <p>Confirms, That the <hi>Guild</hi> of <hi>Weavers</hi> be no more in the City, nor ſhall be at all maintained; but becauſe it was a Cuſtom yearly for them to pay 18 Marks, they ſhall pay the King 20 Marks at <hi>Michaelmas</hi> into the <hi>Ex<g ref="char:EOLhyphen"/>chequer.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>HENR.</hi> 3. <hi>Chart.</hi> 1.</head>
+               <p>Confirms the Sherifwick of <hi>London</hi> and <hi>Middleſex,</hi> they paying yearly 300 <hi>l.</hi>
+               </p>
+               <p>That the Citizens of <hi>London</hi> may make, and amove Sheriffs when they will, and to preſent them to his Ju<g ref="char:EOLhyphen"/>ſtices, and if the Sheriff do not Anſwer the Amerciaments, the Citizens of <hi>London</hi> ſhall; and if the Sheriffs commit any thing whereby they ought to be amerced, they ſhall not be condemned to be amerced to any more than 20 <hi>l.</hi>
+               </p>
+               <p>If they do any Offence whereby to incur the loſs of their Lives, they ſhall be adjudged according to Law.</p>
+               <p>The Citizens to hold the ſaid Sherifwicks at 300 <hi>l. per Annum.</hi>
+               </p>
+               <p>That none preſume to do any hurt to the ſaid Sherif<g ref="char:EOLhyphen"/>wick.</p>
+               <pb n="7" facs="tcp:44932:8"/>
+               <p>What the ſaid King takes away, to be allowed on Ac<g ref="char:EOLhyphen"/>count of the Farm.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>HENR.</hi> 3. <hi>Chart.</hi> 2.</head>
+               <p>That the Barons chooſe a Major, who is to be preſented to the ſaid King, or his Juſtices; and at the end of the year to amove him, and ſubſtitute another, or to retain him ſtill, ſo as he be preſented.</p>
+               <p>To enjoy their Liberties, ſaving the Chamberlainſhip.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>HENR.</hi> 3. <hi>Chart.</hi> 3.</head>
+               <p>Commands all Weares to be removed out of the <hi>Thames,</hi> or <hi>Medway.</hi>
+               </p>
+               <p>And that the Keepers of the Tower do not exact any thing for Weares.</p>
+               <p>That great hurt hath grown to the City and Realm by Weares. Confirms the ſame.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>HENR.</hi> 3. <hi>Chart.</hi> 4.</head>
+               <p>No Citizen to plead without the Walls (except Mo<g ref="char:EOLhyphen"/>nyers and Miniſters.)</p>
+               <p>Acquits Murther within the City and <hi>Portſoken,</hi> and none ſhall wage Battail.</p>
+               <p>That they may diſcharge themſelves of Pleas belong<g ref="char:EOLhyphen"/>ing to the Crown.</p>
+               <p>That no man may take a Lodging by Force, or by de<g ref="char:EOLhyphen"/>livery of the Marſhal.</p>
+               <p>The Citizens of <hi>London</hi> to be quit of Toll and Be<g ref="char:EOLhyphen"/>ſtage.</p>
+               <p>None to be condemned of Amerciaments, but accord<g ref="char:EOLhyphen"/>ing to the Law of the City.</p>
+               <pb n="8" facs="tcp:44932:9"/>
+               <p>That there be no Miskenning in any Pleading.</p>
+               <p>That the <hi>Huſtings</hi> be kept once a Week.</p>
+               <p>That Right be holden to them of their Lands and Te<g ref="char:EOLhyphen"/>nures, according to the Cuſtom of the City.</p>
+               <p>That Pleas be there holden of all Debts which be lent at <hi>London,</hi> and Promiſes there made.</p>
+               <p>If any take Toll he ſhall fail of Right; the Sheriffs of <hi>London,</hi> may take Goods.</p>
+               <p>To have Hunting as formerly.</p>
+               <p>To be quit from <hi>Briſtol, Childwite,</hi> and <hi>Tereſgite,</hi> and of all <hi>Scotals,</hi> ſo that the Shriff of <hi>London</hi> or any of the Bayliffs ſhall not make any <hi>Scotale.</hi> To hold of him and his Heirs.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>HENR.</hi> 3. <hi>Chart.</hi> 5.</head>
+               <p>That all the Warren of <hi>Staines</hi> ſhall be unwarrened, ſo that they and their Heirs may have Liberty of Warren and Forreſt in the ſaid Warren, without the Contradiction of the Warrenner or Foreſter, and to be free of Exactions and Commands. The ſame to be unwarrened.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>HENR.</hi> 3. <hi>Chart.</hi> 6.</head>
+               <p>There is another Charter of the ſame King, concerning <hi>Queen Hythe,</hi> reciting a Covenant made between the Earl of <hi>Cornwall,</hi> and the City of <hi>London,</hi> for certain Exacti<g ref="char:EOLhyphen"/>ons belonging to <hi>Queen Hythe;</hi> the ſaid Earl granting for him and his Heirs, that the ſaid Major, and all the Maj<g ref="char:EOLhyphen"/>ors after him, and Commonalty of the ſaid City, may hold the ſaid <hi>Queen Hythe</hi> with all their Liberties, Cuſtoms, <hi>&amp;c.</hi> in Fee-Farm, paying yearly to the ſaid Earl, his Heirs and Aſſigns 50. <hi>l. (viz.)</hi> at <hi>Eaſter</hi> 25. <hi>l.</hi> and St. <hi>Michael</hi> Th'archangel. The King, allowing of the ſaid Covenant for him and his Heirs, Grants and Allows the ſame the 6th. of <hi>February,</hi> in the 31th. Year of his Reign.</p>
+            </div>
+            <div type="part">
+               <pb n="9" facs="tcp:44932:9"/>
+               <head>
+                  <hi>HENR.</hi> 3. <hi>Chart.</hi> 7.</head>
+               <p>There is another Charter of the ſaid King, wherein he grants for him and his Heirs, and confirmed it by Charter; That the Major and Citizens of <hi>London</hi> ſhould hold all their Liberties and Free Cuſtoms (which they had in the time of King <hi>Henry</hi> his Grand-father, and his Anceſtors Kings of <hi>England</hi>) for ever. The ſaid King granted to the Citizens, that every Major they ſhould chooſe (he not being at <hi>Weſtminſter</hi>) they ſhould preſent him to the Ba<g ref="char:EOLhyphen"/>rons of his Exchequer, that he may be admitted by them as Major; ſo that at the next coming of the King or his Heirs to <hi>Weſtminſter,</hi> he may be preſented, and ſo admit<g ref="char:EOLhyphen"/>ted Major. And the King Wills and Commands for him and his Heirs, that out of the Farm of the ſaid City, there be allowed to the Sheriffs of the ſaid City yearly in his ſaid Accompt 7. <hi>l.</hi> at his Exchequer, for the Liber<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y of St. <hi>Pauls;</hi> and that his Citizens throughout all his Do<g ref="char:EOLhyphen"/>minions, as well on this ſide, as beyond the Sea, be quit of all Toll and Cuſtom for ever.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>HENR.</hi> 3. <hi>Chart.</hi> 8.</head>
+               <p>There is another Charter of the aforeſaid King, bear<g ref="char:EOLhyphen"/>ing Date the 11th. day of <hi>January,</hi> in the 50th. Year of his Reign; wherein he granted to the ſaid Citizens, that they might traffick with their Merchandizes when they pleaſe, throughout his Dominions, as well by Sea as by Land, without Interruption of him or his, as they ſee ex<g ref="char:EOLhyphen"/>pedient, quit from Cuſtom, Toll, <hi>&amp;c.</hi> And may abide for their Trading whereſoever they pleaſe, till ſuch time it ſhall be more fully ordered by his Councel, touching the State of the ſaid City, <hi>Pro ut Letters Patents.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="10" facs="tcp:44932:10"/>
+               <head>
+                  <hi>HENR.</hi> 3. <hi>Chart.</hi> 9.</head>
+               <p>There is another Charter of the ſaid King, wherein he granted to his Citizens of <hi>London</hi> (for him his Heirs and Succeſſors) whom of late has been received into his Grace and Favour, after divers Treſpaſſes and Forfeitures of them and their Commonalty to him, for the which, both for Life and Member, and all other things belonging to the ſaid City, they have ſubmitted themſelves to his Will. That none of them be compelled to plead out of the Walls of the ſaid City, for any thing except forreign Te<g ref="char:EOLhyphen"/>nures. And except his Monyers and Officers. And except thoſe things which ſhall happen to be done againſt his Peace, which according to the Common Law of the Realm, were wont to be determined in the parts where the Treſpaſſes were done. And except Pleas concerning Merchandizing, which were wont to be determined ac<g ref="char:EOLhyphen"/>cording to the Law-Merchant in Burrough and Fairs. So yet notwithſtanding that thoſe Plaints be determined in Burroughs and Fairs by four or five of the ſaid Citizens of <hi>London</hi> that ſhall be there preſent, ſaving to him the Amerciaments upon Pain of Forfeitures. He alſo grants to the ſaid Citizens acquittal of Murther in the ſaid City and in <hi>Portſoken,</hi> and that none of the Citizens may wage Battail. And that for the Pleas belonging to the Crown, chiefly thoſe that may chance within the ſaid City to diſcharge themſelves of Pleas of the Crown, according to ancient Cuſtom of the City; except that upon the Graves of the Dead, for that which they ſhould have ſaid if they had lived. It ſhall not be lawful to ſwear, but inſtead of thoſe deceaſed, which before their Deaths to diſcharge thoſe which concerning the things belonging to the Crown were called and received. There may other free and law<g ref="char:EOLhyphen"/>ful
+<pb n="11" facs="tcp:44932:10"/> Men be choſen, which may accompliſh that which by the deceaſed ſhould have been done if they had lived. And within the Walls of the ſaid City, none may take Lodgings forceably. He hath alſo granted the Citizens throughout all his Dominions whereſoever they come, to dwell with their Merchandizes. And alſo throughout all the Sea Ports, as well on this ſide as beyond the Seas, which ſhall be free of all Toll and Cuſtoms, <hi>&amp;c.</hi> except every where his ancient Cuſtom and Prices of Wines; That is to ſay, one Tun before and another behind the Maſt, at 20. <hi>s.</hi> the Tun, to be paid in ſuch Form, as he and his Anceſtors have been accuſtom'd to have the ſaid Prices. And if Toll or Cuſtom ſhall be taken of the Ci<g ref="char:EOLhyphen"/>tizens of <hi>London,</hi> the Sheriff may take Goods therefore at <hi>London.</hi>
+               </p>
+               <p>He alſo granted to them, that the <hi>Huſtings</hi> be kept once a Week, and that only by one Day, ſo as thoſe things within the ſame day that cannot be determined may continue till next Morning and no longer; and that Right be holden to them for their Rights and Tenures within the ſame City, according to the Cuſtom of the ſaid City; and Forreigners and Citizens may make their Attorneys as well in Pleading, as Defending; and that there may not be Miskening in any other Pleas; that is to ſay, if they have not declared altogether well, and of all their Debts which were lent at <hi>London,</hi> and Promiſes there made, Pleas be there Held according to the ancient Cuſtom.</p>
+               <p>Further he granted to the City, that all be quit of <hi>Childwit</hi> and <hi>Jereſgive,</hi> and from <hi>Scotale;</hi> ſo that our She<g ref="char:EOLhyphen"/>riffs of <hi>London,</hi> nor any other Bayliff ſhall not make any <hi>Scotale.</hi> And alſo that the ſaid Citizens may juſtly have and hold their Lands Tenures or Promiſes, and alſo their Debts whoſoever ſhall owe them, and that no Merchant
+<pb n="12" facs="tcp:44932:11"/> or other foreſtall any Goods coming to <hi>London</hi> to be ſold upon Forfeiture of Impriſonment and the things bought. And that none put their Goods to Sale before Cuſtom be paid, upon Pain of Forfeiture. And that no Merchant-Stranger, or other, do buy any Goods before they be weighed at the King's Beam, upon Forfeiture of the ſaid Wares.</p>
+               <p>And alſo that thoſe Debts which of Contracts or Loan ſhall be due unto them, ſhall be inrolled in the Ex<g ref="char:EOLhyphen"/>chequer, upon the Recognizance of thoſe who ſhall ſtand bound. Nevertheleſs, no Debt to be inrolled, but teſtified by ſix or four Witneſſes, who may be ſufficient to anſwer as well for the Debt as for the Damages, which any may have of ſuch Recognizances, if the ſame happen to be falſly done under their Names: And for every pound ſo inrolled, one penny to be paid towards the ſuſtentation of thoſe who at<g ref="char:EOLhyphen"/>tend; To hold to them and their Heirs, ſo long as they ſhall behave themſelves well to the King and his Heirs; together with their juſt and reaſonable Cuſtoms hereto<g ref="char:EOLhyphen"/>fore had, ſo as the Cuſtoms be not contrary to Law; ſaving in all things the Liberty of the Church of <hi>Weſt<g ref="char:EOLhyphen"/>minſter.</hi> But, as touching <hi>Jews</hi> and Merchant-Strangers he will provide as he ſees expedient. Dated the 26th day of <hi>March,</hi> 1268.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>EDWARD</hi> 1.</head>
+               <p>A Charter made by <hi>Edward</hi> the Firſt to the City of <hi>London,</hi> dated <hi>April</hi> 18. <hi>Anno Domini</hi> 1298. In which Charter is contained, That the Citizens of <hi>London</hi> have been accuſtomed to preſent every Major before the Ba<g ref="char:EOLhyphen"/>rons of the Exchequer, the King not being at <hi>Weſtminſter,</hi> that he may be admitted Major; The King, willing to ſhew more ample Favour to the ſaid Citizens, Doth
+<pb n="13" facs="tcp:44932:11"/> Grant to them, for him and his Heirs, the Major and Sheriffs, in abſence of the King and Barons, to be pre<g ref="char:EOLhyphen"/>ſented to the Conſtable of the <hi>Tower</hi> of <hi>London,</hi> yearly. Nevertheleſs, that at the next coming of the King or his Heirs to <hi>Weſtminſter</hi> or <hi>London,</hi> the Major be preſented and admitted, <hi>&amp;c.</hi> And the King alſo Granted for him and his Heirs, to the Citizens and their Succeſſors for ever, quit and free of Pannage, Pontage, and Murrage, throughout the Realm and Dominions. And that the Sheriffs amerced for any Offence, ſhall be amerced ac<g ref="char:EOLhyphen"/>cording to the meaſure of the Offence, as other the She<g ref="char:EOLhyphen"/>riffs of our Realm have been amerced for the like offence. And the Citizens to enjoy their Cuſtomes.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>EDW.</hi> 2.</head>
+               <p>Letters Patents of <hi>Edward</hi> Son of <hi>Edw.</hi> King, <hi>&amp;c.</hi> re<g ref="char:EOLhyphen"/>citing, Whereas the Major and good men of the City of <hi>London,</hi> have of late done the King Service with Armed men, <hi>&amp;c.</hi> going with the King through divers parts of the Realm; The King, willing to indempnifie the ſaid Major and Citizens, Hath granted to them, for him and his Heirs, That the Aids ſo done, ſhall not be prejudicial to the ſaid Major and Citizens, and Succeſſors, nor be drawn into Conſequence or Example. <hi>Teſte</hi> 12 <hi>Dec.</hi> 1322.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>EDW.</hi> 3.</head>
+               <p>A Charter of <hi>Edw.</hi> the Third, by conſent of Parlia<g ref="char:EOLhyphen"/>ment, hath Granted and Confirmed to the Citizens of <hi>London,</hi> the Liberties underwritten, <hi>To have and to hold</hi> to them, their Heirs, and Succeſſors for ever: Firſt, Whereas in the Great Charter of the Liberties of <hi>England</hi> is contained, that the City of <hi>London</hi> may have
+<pb n="14" facs="tcp:44932:12"/> all the Ancient Liberties and Cuſtoms. And the ſaid Ci<g ref="char:EOLhyphen"/>tizens at the time of making the Charter, from the time of St. <hi>Edward</hi> and <hi>William</hi> the Conquerour, had divers Liberties and Cuſtoms, as well by Charters as without Charter, by Ancient Cuſtom, whereby, in divers the Circuits, and other the Courts of his Progenitors, as well by Judgments as by Statutes were invaded: He grants for him and his Heirs, that they may have their Liberties according to the Form of the aforeſaid Great Charter: And that Impediments and Uſurpations to them in that behalf made, ſhall be revoked and annulled. He further grants for him and his Heirs, to the Citizens, <hi>&amp;c.</hi> That the Major of the aforeſaid City, which for time, ſhall be one of the Juſtices to be aſſigned for the Goal delivery at <hi>Newgate,</hi> and be named in every Commiſſion thereof to be made. And that the ſaid Citizens may have Infa<g ref="char:EOLhyphen"/>my, Theft, and Chattels of Fellons, of all thoſe who ſhall be adjudged before them within the Liberties of the ſame City, at the aforeſaid Goal to be adjudged. And whereas alſo by the Charters of his Progenitors, it was granted to the ſame Citizens, that they ſhould hold the Sherifwick of <hi>London</hi> and <hi>Middleſex</hi> for 300 <hi>l.</hi> year<g ref="char:EOLhyphen"/>ly to be paid at the Exchequer. And they are now charged with 400 <hi>l.</hi> yearly, contrary to the Form of the ſaid Charters; He grants for him, <hi>&amp;c.</hi> That the Citizens, their Heirs, and Succeſſors, hold the aforeſaid Sherif<g ref="char:EOLhyphen"/>wicks for 300 <hi>l.</hi> yearly, and that they be acquitted the ſaid 100 <hi>l.</hi>
+               </p>
+               <p>Further grants for him and his Heirs, to the Citizens, their Heirs and Succeſſors, to bequeath their Tenements within the Liberties of the aforeſaid City, as well in Mortmaine, as in other Manner, as in ancient time they have been accuſtomed to do. And whereas in a Charter of King <hi>Edw.</hi> his Father, made to the ſaid Citizens, is
+<pb n="15" facs="tcp:44932:12"/> contained, that the Sheriffs of the ſaid City, as often as they ſhall be amerced for any Offence in the Court, ſhould not be amerced in other manner for Eſcapes than other Sheriffs wont to be in other Counties on this ſide <hi>Trent.</hi> He grants that the Sheriffs of the ſaid City ſhall in no wiſe be amerced or charged for the Eſcape of Thieves in any otherwiſe, than as the Thieves on this Side <hi>Trent;</hi> And that the Citizens ſhall not be charged for the Cuſto<g ref="char:EOLhyphen"/>dy of thoſe that fly to the Churches within the aforeſaid Liberty; and that the Citizens may take away all the Wears in the water of <hi>Thames,</hi> and <hi>Medway.</hi> The King Wills and Commands, that all Merchant-Strangers coming to <hi>England,</hi> ſhall ſell their Wares and Merchandizes with<g ref="char:EOLhyphen"/>in 40 days after their coming thither, and ſhall continue and board with free Hoſts of <hi>London,</hi> and other the Ci<g ref="char:EOLhyphen"/>ties and Towns of <hi>England.</hi>
+               </p>
+               <p>And alſo Wills and Grants for him and his Heirs, that the Marſhal-Steward or Clerk of the Market, of his Houſ<g ref="char:EOLhyphen"/>hold or of his Heirs, ſhall not ſit from thenceforth within the Liberty of the ſaid City, nor exerciſe any Office there, nor any way draw any Citizen to plead without the Li<g ref="char:EOLhyphen"/>berties of the ſaid City, of any thing to happen within the Liberties of the ſame. And that no Eſcheator from henceforth exerciſe the Office, but that the Major for the time being, do the Office of Eſcheator within the ſaid Li<g ref="char:EOLhyphen"/>berty; ſo that he take his Oath, that he exerciſe the Of<g ref="char:EOLhyphen"/>fice, and anſwer to the King and his Heirs, as he ought to do; and that the Citizens be not compelled to go or ſend to War out of the ſaid City; and that the Conſta<g ref="char:EOLhyphen"/>ble of the <hi>Tower</hi> ſhall not make any Prizes of any thing belonging to the Citizens, nor arreſt Ships or Boats bring<g ref="char:EOLhyphen"/>ing Victuals, <hi>&amp;c.</hi> to or from the ſaid City. And foraſmuch as the Citizens in Fairs of <hi>England,</hi> were wont to have amongſt themſelves Keepers, to hold the Pleas touching
+<pb n="16" facs="tcp:44932:13"/> the Citizens of the ſaid City, and aſſembling at the Fairs, grants as much as in him is, that the Citizens may have ſuch like Keepers to hold ſuch like Pleas of their Cove<g ref="char:EOLhyphen"/>nants as of ancient time they had. Except the Pleas of Land, and of the Crown.</p>
+               <p>He further Grants for Him and his Heirs, That the She<g ref="char:EOLhyphen"/>riffs of <hi>London</hi> ſhall not be compelled to take any Oath at the Exchequer, but upon the yielding up of their Ac<g ref="char:EOLhyphen"/>counts. And Grants the Citizens all their Liberties and free Cuſtoms, as of old time they were wont. And that they may record their ſaid Liberties: And that to the allowance of their Charters to be had in the Exchequer, and other his Pleas whatſoever, one Writ ſhall ſuffice in all Pleas for every Kings time. And that no Summons, Attachments, or Executions be made by any the Officers whatſoever of him or his Heirs, by Writ or without Writ, within the Liberty of the ſaid City, but onely by the Of<g ref="char:EOLhyphen"/>ficers of the ſaid City. And that the Sheriffs may law<g ref="char:EOLhyphen"/>fully have the Forfeitures of Victuals, and other things, and Merchandizes, according to the Charter, and ſhall not be debarred thereof hereafter. And that the Citizens ſhall be guided by the ſame Laws and Cuſtoms as in the time of King <hi>John</hi> and King <hi>Henry.</hi> And if any thing was attempted contrary to their Liberties and free Cu<g ref="char:EOLhyphen"/>ſtoms; He Wills, that they be not prejudicial to them, but that they be guided as of old time they were. The King Grants for him and his Heirs, that the ſaid Citizens be taxed in Subſidies and Contributions as other Com<g ref="char:EOLhyphen"/>moners. And that they be quit of all other Tallages. And that the Liberty of the ſaid City ſhall not be taken into his hands, or his Heirs, for any Perſonal Treſpaſs of any Miniſter of the City. And that no Purveyor, Taker, Of<g ref="char:EOLhyphen"/>ficer, and other Miniſter of him or his Heirs, or of any other, ſhall make any prices in the City or without, of the
+<pb n="17" facs="tcp:44932:13"/> Goods of any Citizen contrary to their Will. And that no Prices be made of Citizens Wines againſt their Wills, but ſhall be quit thereof for ever. Alſo no Officer of the King or his Heirs ſhall merchandize within or without the ſaid City, of any thing touching their Offices. Alſo grants that the Lands and Tenements lying without of the Citizens, which have or ſhall be Miniſters of the City, be bound to keep the City harmleſs againſt him and his Heirs, of things which concern their Offices. And that no Market ſhall be granted within ſeven Miles round the City. And that all Inquiſitions from henceforth, ſhall be taken by our Juſtices or Miniſters of the ſaid City, in St. <hi>Martins le Grand;</hi> except the Inquiſitions in the Cir<g ref="char:EOLhyphen"/>cincts at the <hi>Tower,</hi> and for the Goal Delivery at <hi>Newgate,</hi> and no Citizen to be impleaded in the Exchequer, unleſs it concern the King. And Grants the City all their anci<g ref="char:EOLhyphen"/>ent Liberties and free Cuſtoms. <hi>Dat.</hi> 6. <hi>Martii,</hi> in the firſt year of his Reign. <hi>Anno</hi> 1327.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>EDW.</hi> 3. <hi>Chart.</hi> 2.</head>
+               <p>Alſo other Letters Patents of King <hi>Edward</hi> 3. upon the Citizens Petition to the King in Parliament concerning Robberies, Fellonies, <hi>&amp;c.</hi> where the Robbers, Fellons, <hi>&amp;c.</hi> fly into <hi>Southwark,</hi> and cannot be attached by the Mi<g ref="char:EOLhyphen"/>niſters of the City, for Prevention of which, the King with the Parliament grants to the City the ſaid Village of <hi>Southwark</hi> to hold to them and their Succeſſors for ever, for a Farm and Rent to be paid yearly at the Exchequer, at the accuſtomed times due and accuſtomed. <hi>Teſte</hi> 6. <hi>Martii,</hi> 1327.</p>
+            </div>
+            <div type="part">
+               <pb n="18" facs="tcp:44932:14"/>
+               <head>
+                  <hi>EDW.</hi> 3. <hi>Chart.</hi> 3.</head>
+               <p>Another Charter of <hi>Edw.</hi> 3. in the Parliament at <hi>York,</hi> holden the ninth Year of his Reign, wherein all Merchant-Strangers as well as <hi>Engliſh,</hi> ſhould ſell and buy in all Ci<g ref="char:EOLhyphen"/>ties and Towns in the Realm, except to the Enemies of the King and Realm; yet nevertheleſs, becauſe the Sta<g ref="char:EOLhyphen"/>tutes as well in this as in other Parliaments, it was grant<g ref="char:EOLhyphen"/>ed and eſtabliſhed, that the great Charter of the Liberty of <hi>England</hi> in all and ſingular the Articles ſhould be main<g ref="char:EOLhyphen"/>tained. And in the ſame Charter is contained, that the City of <hi>London</hi> may have it's ancient Liberties, the King grants to the Citizens for him and his Heirs, that the Ci<g ref="char:EOLhyphen"/>tizens, their Heirs, and Succeſſors, ſhall have all their Liberties and free Cuſtoms, <hi>Teſte</hi> 26 <hi>die Martii,</hi> 1337.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>EDW.</hi> 3. <hi>Chart.</hi> 4.</head>
+               <p>Another Stat. of <hi>Edw.</hi> 3. wherein he granted to the City, that the Serjeants of <hi>London</hi> may bear Maces of Gold or Silver, or Silvered or garniſhed with the Sign of his Arms in the City and Liberties; and alſo without the City to meet with the King, his Mother, his Conſort, or his Children, <hi>&amp;c.</hi> And as often as any of the Serjeants be ſent to Foreign places without the City, to do their Office at the Command of the King, or the Major, or Sheriffs, they may carry their Maces, <hi>Teſte</hi> 10 <hi>Junii,</hi> 1355.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>EDW.</hi> 3. <hi>Chart.</hi> 5.</head>
+               <p>Letters Pattents from King <hi>Edward</hi> 3. confirmed, that all Merchant-Strangers coming into <hi>England,</hi> ſhall remain at Board with free Hoſts, and not to keep Houſes. And
+<pb n="19" facs="tcp:44932:14"/> that there be no Brokers of any Merchant, unleſs they be choſen by the Merchants of the Myſtery in which the Brokers exerciſe their Offices, and to take their Oath be<g ref="char:EOLhyphen"/>fore the Major of the City: And that Merchants who are not free of the City, do not ſell by Retail any Wares within the ſaid City or Suburbs thereof.</p>
+               <p>The Major and Aldermen, and Commonalty petition the King, that they have often ſued in Parliament, that they are impoveriſhed by reaſon their Liberties formerly grant<g ref="char:EOLhyphen"/>ed are reſtrained; Therefore prayes the King and Coun<g ref="char:EOLhyphen"/>cel to ordain in Parliament, that the Merchants-Strangers may be reſtrained. The King, with conſent of Parliament, granted for him and his Heirs, that the Major, Aldermen, and Citizens of the ſaid City, and their Succeſſors, upon condition they put the ſaid City under good Govern<g ref="char:EOLhyphen"/>ment, That no Stranger from henceforth ſhall ſell any Wares in the City or Suburbs by Retail, nor keep Houſe, or be Broker in the City or Suburbs; ſaving to the Mer<g ref="char:EOLhyphen"/>chants of <hi>High Almain</hi> their Liberties. <hi>Teſte</hi> 4 <hi>Dec.</hi> in the fiftieth year of his Reign of <hi>England,</hi> and of <hi>France</hi> the 37th.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>HENR.</hi> 4.</head>
+               <p>A Charter of <hi>Henry</hi> the 4th. <hi>Dat.</hi> 25 <hi>Maii,</hi> 1399. Granting to the Citizens the keeping of the Gates of <hi>Newgate</hi> and <hi>Ludgate,</hi> and all other the Gates and Poſterns of the City. And alſo the Office of gathering the Tolls and Cuſtoms in <hi>Cheap, Billingſgate, Smithfield;</hi> and alſo the Tonnage, <hi>viz.</hi> the weighing of Lead, Wax, Pepper, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>EDW.</hi> 4. <hi>Chart.</hi> 1.</head>
+               <p>A Charter of <hi>Edward</hi> the 4th for Preſervation of the Peace and Governing of the City, that they may have and
+<pb n="20" facs="tcp:44932:15"/> hold all their Liberties and Cuſtoms as whole and ſound as ever they had.</p>
+               <p>And further Grants for him and his Heirs, That the Major, Recorder, and ſuch Aldermen as have been Majors, ſhall be Juſtices of the Peace, and keep, or cauſe to be kept all Ordinances and Statutes made and to be made for the quiet Rule and Government of the People, and for the good of the Peace by Land and Water within the Liber<g ref="char:EOLhyphen"/>ty of the ſaid City, and to chaſtize and puniſh according to the Form of the Statutes. And alſo grants to the ſaid Major and Citizens, and their Succeſſors, and the Re<g ref="char:EOLhyphen"/>corder of the ſaid City, and ſuch Aldermen, or four of the ſame, the Major, Recorder, and Aldermen, of whom ſuch Major for the time being, and his Succeſſors to be one, be Juſtices for ever; To enquire, hear, and determine of all manner of Felonies, Treſpaſſes, <hi>&amp;c.</hi> And alſo to hear and determine, and execute all other things which ſhall per<g ref="char:EOLhyphen"/>tain to other Juſtices of the Peace within the Realm: Giv<g ref="char:EOLhyphen"/>ing in command to the Sheriffs of the ſaid City, that they attend, counſel, anſwer, and aid the Juſtices, Major, Recor<g ref="char:EOLhyphen"/>der, and their Succeſſors, as required, for conſerving the Peace; Saving to the City their Cuſtoms, <hi>&amp;c.</hi> And the King being willing rather to enlarge than diminiſh the Cuſtom of the ſaid City, hath Granted to them and their Succeſſors, That when any Iſſue ſhall be taken in any Plea of or upon the Cuſtom of the City, between any Parties in pleading, or if any thing touching the ſaid Cuſtoms be moved before the Judges or Barons, <hi>&amp;c.</hi> the ſame Major and Aldermen by word of Mouth, and then there may be ſpeedy Proceſs by that Record and Decla<g ref="char:EOLhyphen"/>ration, ſuch Cuſtom ſo alledged ſhall be allowed for a Cuſtom. And though the Major, <hi>&amp;c.</hi> make not Uſe, or abuſe the Cuſtoms and Liberties, no Forfeiture to be ta<g ref="char:EOLhyphen"/>ken therefore. As well Denizens as Aliens, and all abi<g ref="char:EOLhyphen"/>ding within the City, to be contributary to Taxes, ac<g ref="char:EOLhyphen"/>cording
+<pb n="21" facs="tcp:44932:15"/> to their Faculties, as well as the Citizens.</p>
+               <p>Merchants of <hi>Almaine</hi> excepted.</p>
+               <p>Aldermen not to be put upon Aſſizes, Attaints, or Ju<g ref="char:EOLhyphen"/>ries; Nor Collectors, or Taxers, out of the City.</p>
+               <p>
+                  <hi>Southwark</hi> granted to the City of <hi>London,</hi> and Waifs and Eſtraies, Treaſure, <hi>&amp;c.</hi> Aſſize of Bread, Execution, and Return of Writs by the City Officers.</p>
+               <p>The King's Clerk of the Market, nor the Sheriff of <hi>Surrey,</hi> to intermeddle. Alſo a Fair for three days.</p>
+               <p>To carry to <hi>Newgate</hi> Thieves taken in <hi>Southwark.</hi>
+               </p>
+               <p>Grants them all Liberties he had or ſhould have in <hi>Southwark;</hi> the Right of the Arch-biſhop of <hi>Canterbury</hi> excepted.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>EDW.</hi> 4. <hi>Chart.</hi> 2.</head>
+               <p>Tonnage and Weighing granted to the City; Weigh<g ref="char:EOLhyphen"/>ing of Wool to be at <hi>Leaden-Hall,</hi> and no other place with<g ref="char:EOLhyphen"/>in three Miles.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>EDW.</hi> 4. <hi>Chart.</hi> 3.</head>
+               <p>Liberty to purchaſe 200 Marks <hi>per Annum,</hi> in <hi>Mortmain,</hi> upon conſideration of remitting the King 1923. formerly lent.</p>
+               <p>Alſo Liberty to any to grant ſuch Lands to the City in <hi>Mortmain,</hi> without any other Writ <hi>ad quod damnum.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>EDW.</hi> 4. <hi>Chart.</hi> 4.</head>
+               <p>A Grant of the Office of Packing (to the City) of all Woollen Cloths, and all other Merchandizes, for and in conſideration of remitting the King 7000 <hi>l.</hi> formerly lent.</p>
+               <p>This Charter was confirmed by Parliament, in the Third year of the Reign of King <hi>Hen.</hi> 8.</p>
+               <p>Alſo the Grant of the Office of Portage of the Goods and Merchandizes of all Denizens and Aliens.</p>
+               <pb n="22" facs="tcp:44932:16"/>
+               <p>Alſo the Grant of the Office of Garbling of all Spices, and other Merchandizes coming to the City, which ought to be Garbled.</p>
+               <p>And alſo the Office of Gauging and Wine-drawing, for the carrying off of Wines brought to the Port of the City, to be exerciſed by them and their Deputies.</p>
+               <p>And alſo the Grant of the Office of Coroner.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>HENRY</hi> 7. Part of the <hi>Charter.</hi>
+               </head>
+               <p>A Grant for the Merchandize of Foreigners bought and ſold, forfeited to the City.</p>
+               <p>Alſo a Confirmation to the City of the Cuſtoms of Fo<g ref="char:EOLhyphen"/>reign Goods bought and ſold.</p>
+               <p>Yet Strangers may buy things in the Groſs for their own Uſe, but not to Sell again.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>HENR.</hi> 8. <hi>Chart.</hi> 1.</head>
+               <p>A Charter of <hi>Henry</hi> the 8th, Dated the 16th day of <hi>June</hi> in the 10th year of his Reign, for all Inquiſitions formerly taken in St. <hi>Martins,</hi> to be taken at <hi>Guild-Hall,</hi> or at any other place within the ſaid City.</p>
+               <p>Except Inquiſitions in <hi>Eyers,</hi> to be taken at the Cir<g ref="char:EOLhyphen"/>cuits of the <hi>Tower</hi> of <hi>London,</hi> and for the Goal Delivery at <hi>Newgate.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>HENR.</hi> 8. <hi>Chart.</hi> 2.</head>
+               <p>Another Charter to the City, of the Office of Keeper of the Great Beam and common Ballance of Weight, for weighing of all Merchandizes of <hi>A vou du pois,</hi> and alſo all Weights whatſoever. And alſo Tronage, that is to ſay, the weighing of Lead, Wax, Pepper, Dome, Madder,
+<pb n="23" facs="tcp:44932:16"/> and all other ſuch Wares, (confirmed to the City) for<g ref="char:EOLhyphen"/>merly granted them by King <hi>Henry</hi> the 4th.</p>
+               <p>The keeping of the Weights and Beams to be and re<g ref="char:EOLhyphen"/>main at the Will of the Commonalty of the City, to be kept in the cuſtody of good ſufficient men expert in the ſame.</p>
+               <p>The Major, Commonalty, and Citizens ordained Keepers of the great Beam, Ballance, and Weights afore<g ref="char:EOLhyphen"/>ſaid.</p>
+               <p>And alſo to Make, Name, and Aſſign from time to time all and all manner of Clerks, Porters, Servants and Mi<g ref="char:EOLhyphen"/>niſters of the great Beam, and Ballance, and of the Iron Beam, and of the Beam of the Styll-yard, and the Weights aforeſaid, and alſo to remove any Officer or Miniſter, and to make, conſtitute and place others in his or their Place, as often as to them ſhall ſeem expedient.</p>
+               <p>The ſame to be to the Uſe of the Major and Commo<g ref="char:EOLhyphen"/>nalty of the City, without any Accompt to be delivered, made, given, or paid in this Behalf for the Premiſes, or any of them.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>EDW.</hi> 6.</head>
+               <p>For the Conſideration of 647 <hi>l.</hi> 2. <hi>s.</hi> 1 <hi>d.</hi> paid to the Treaſurer of the Court of Augmentation by the Major and Commonalty of <hi>London,</hi> hath granted to the ſaid Major, <hi>&amp;c.</hi> ſeveral Meſſuages, Tenements, Cloſes, and Parcels of Ground in <hi>Southwark</hi> in <hi>Com' Surrey;</hi> except the Capi<g ref="char:EOLhyphen"/>tal Houſe called <hi>Southwark</hi> Place, and the Park, and the Buildings and Ground called the <hi>Antelope</hi> there.</p>
+               <p>And further grants to them the Lordſhip and Manner of <hi>Southwark,</hi> with the Appurtenances in <hi>Com' Surrey,</hi> ap<g ref="char:EOLhyphen"/>pertaining to the late diſſolved Monaſtry of <hi>Bermondſey,</hi> except before therein excepted.</p>
+               <pb n="24" facs="tcp:44932:17"/>
+               <p>And further grants to them the Manor and Burrough of <hi>Southwark</hi> in the ſaid County, parcel of the Poſſeſſions of the Arch-biſhop and Arch-biſhoprick of <hi>Canterbury,</hi> and certain Rents thereout coming.</p>
+               <p>And further, Grants all Woods, Underwoods, and Trees, and the Soil and Ground of the ſame, and the Re<g ref="char:EOLhyphen"/>verſion and yearly Profits thereof.</p>
+               <p>And alſo grants the Premiſes in as large manner as the Duke of <hi>Suffolk,</hi> or any Abbot of <hi>Bermondſey,</hi> or Arch<g ref="char:EOLhyphen"/>biſhop of <hi>Canterbury</hi> did enjoy the ſame, and as largely as it came to <hi>Edward</hi> the Sixth, or <hi>Henry</hi> the Eighth.</p>
+               <p>And for the Conſideration of 500 Marks, Hath grant<g ref="char:EOLhyphen"/>ed to the ſaid Major and Commonalty, in and through the Burrough of <hi>Southwark,</hi> and the Pariſhes, St. <hi>Savi<g ref="char:EOLhyphen"/>ours,</hi> St. <hi>Olives,</hi> St. <hi>Georges,</hi> and St. <hi>Thomas</hi> Hoſpital, <hi>Kent-ſtreet, Blackman-ſtreet,</hi> and <hi>Newington,</hi> all Waifes, Strays, Treaſure, found Goods of Traitors, Fel<g ref="char:EOLhyphen"/>lons, Fugitives, outlawed Perſons, Deodans. And that they ſhall have the Aſſize and Aſſay of Bread, Wine, Beer and Ale, and all Victuals, and things whatſoever ſet to Sale in the ſaid Town, and what pertains to the Clerk of the Market.</p>
+               <p>And the Puniſhment of all Perſons ſelling Wine, Beer, Ale, and others exerciſing Arts howſoever.</p>
+               <p>And all Forfeitures, Fines, and Amerciaments, and all other things whatſoever, belonging to the ſaid King and his Heirs.</p>
+               <p>And the Execution of Writs and all Warrants, and the Returns of the ſame.</p>
+               <p>And ſhall have there, and through all the ſaid Town, Burrough, and Precincts one Fair to endure three days, (<hi>viz.</hi> the ſeventh, eighth, ninth days of <hi>September,</hi> toge<g ref="char:EOLhyphen"/>ther with a Pye-powder Court, to hear all Actions, Plaints and Pleas; together with all Summons, Attach<g ref="char:EOLhyphen"/>ments,
+<pb n="25" facs="tcp:44932:17"/> Arreſts, Iſſues, Fines, Redemptions, and Commo<g ref="char:EOLhyphen"/>dities, and other Rights thereto belonging, without any Let or Diſturbance. And may have throughout the aforeſaid Precincts Views of Frank-pledge.</p>
+               <p>And may take and Arreſt all Felons, Thieves, and other Malefactors within the ſame Precincts, and bring them to the Goal of <hi>Newgate,</hi> there to be kept till by Law deli<g ref="char:EOLhyphen"/>vered.</p>
+               <p>And that they may have the ſame Liberties as the King ſhould have, if it were in his hands.</p>
+               <p>And alſo to hold all Pleas, Actions, and Perſonal Suits, and all Contracts, and demands within the ſaid Burrough, before the ſaid Major, Aldermen, and Sheriffs, in the <hi>Guild-Hall,</hi> and <hi>Huſtings</hi> to be holden in like Actions, Bills, Plaints, Proceſs, Arreſts, Judgments, Ex<g ref="char:EOLhyphen"/>ecutions, and in ſuch manner as the ſame hath been exe<g ref="char:EOLhyphen"/>cuted in the Court before the ſaid Major, Aldermen, and Sheriffs of the ſaid City.</p>
+               <p>And that the Serjeants at Mace of the ſaid City, may Execute any manner of Proceſs about ſuch Pleas and Execution of the ſame, as it hath been uſed in the ſaid City.</p>
+               <p>And the Jurors making Default before the Major and Sheriffs of <hi>London,</hi> Then ſuch men Impannelled and Summoned ſhall be amerced, and ſhall forfeit ſuch Iſſues upon them returned, and ſuch Forfeitures to be le<g ref="char:EOLhyphen"/>vied by the Miniſters of the ſaid City.</p>
+               <p>And alſo the Major, <hi>&amp;c.</hi> to have cognizance of Per<g ref="char:EOLhyphen"/>ſonal Actions ariſing within the Precincts of <hi>Southwark,</hi> and the Iſſues of ſuch Suits ſhall be Tryed in the ſame Courts, before the Major, Aldermen, and Sheriffs, by the men in <hi>Southwark.</hi>
+               </p>
+               <p>That the Major, <hi>&amp;c.</hi> may chooſe two Coroners in <hi>Southwark,</hi> and the ſaid Coroners ſo elected, may have
+<pb n="26" facs="tcp:44932:18"/> full power to Execute the Office of Coroner, and no other Coroner to intermeddle in the ſaid Burrough, or Precincts thereof.</p>
+               <p>The Major for the time being to be Eſcheator in <hi>South<g ref="char:EOLhyphen"/>wark,</hi> and ſhall have full Power to make his Precept to the Sheriff of <hi>Surrey,</hi> to execute ſuch things there as be<g ref="char:EOLhyphen"/>longs to the Office of Eſcheator, and no other Eſchea<g ref="char:EOLhyphen"/>tor to intermeddle.</p>
+               <p>The ſaid Major to be Clerk of the Market in <hi>South<g ref="char:EOLhyphen"/>wark,</hi> and the King's Clerk of the Market not to inter<g ref="char:EOLhyphen"/>meddle.</p>
+               <p>The Major, Commonalty and Citizens, ſhall for ever enjoy within the ſaid Burrough all Franchiſes, Tolls, Stal<g ref="char:EOLhyphen"/>lages, Pickages, and other Privileges whatſoever, which the Arch-biſhop of <hi>Canterbury, &amp;c.</hi> enjoyed, and none of our Sheriffs or Officers to intermeddle there.</p>
+               <p>All the Inhabitants of <hi>Southwark</hi> to be under Go<g ref="char:EOLhyphen"/>vernment and Correction of the Major and Officers of <hi>London,</hi> as the Citizens and Inhabitants of the ſaid City ought to be.</p>
+               <p>The Major and Commonalty to have the like Juriſdi<g ref="char:EOLhyphen"/>ction as in the ſaid City of <hi>London.</hi>
+               </p>
+               <p>The Major, Recorder, and ſuch Aldermen as have been Majors, to be Juſtices of the Peace in the ſaid Bur<g ref="char:EOLhyphen"/>rough and County of <hi>Surry.</hi>
+               </p>
+               <p>The ſaid Major, <hi>&amp;c.</hi> to have Markets in <hi>Southwark,</hi> on <hi>Munday, Wedneſday, Friday</hi> and <hi>Saturday,</hi> and all things which to a Market appertaineth for ever.</p>
+               <p>Except the Juriſdictions, Liberties and Franchiſes over the Capital Meſſuage and Park in <hi>Southwark.</hi>
+               </p>
+               <p>And except the <hi>King's Bench,</hi> with the Appurtenan<g ref="char:EOLhyphen"/>ces, ſo long as it ſhall be uſed for a Priſon, as it then was.</p>
+               <pb n="27" facs="tcp:44932:18"/>
+               <p>This grants not to the Prejudice of the Steward or Marſhal of the ſaid King's Houſe.</p>
+               <p>Nor to <hi>John Gate</hi> Knight, one of the Gentlemen of the Privy Chamber, during Life; which Premiſſes are of 35 <hi>l.</hi> 14. <hi>s.</hi> 4. <hi>d.</hi> yearly Value.</p>
+               <p>To hold and enjoy the ſaid Manors, Meſſuages, and Premiſſes, with the Appurtenances (except before ex<g ref="char:EOLhyphen"/>cepted) to the ſaid Major and Commonalty of the ſaid City for ever; to be holden as of the Manors of <hi>Eaſt Greenwich</hi> in the County of <hi>Kent,</hi> by Fealty only in free Soccage.</p>
+               <p>And grants the Rents and Profits thereof from <hi>Michael<g ref="char:EOLhyphen"/>mas</hi> then laſt paſt, of the ſaid King's Gift without Ac<g ref="char:EOLhyphen"/>compt.</p>
+               <p>The ſaid King to ſave harmleſs the ſaid Major and Commonalty againſt all Rents, Corodies and Sums of Money whatſoever, to be paid or charged on the Pre<g ref="char:EOLhyphen"/>miſſes.</p>
+               <p>Saving the Services thereby reſerved, and the ancient Fee-Farm of 10. <hi>l.</hi> for the ſaid Burrough, paid by the Major and Commonalty into the ſaid King's Exche<g ref="char:EOLhyphen"/>quer.</p>
+            </div>
+            <div type="part">
+               <head>Jacob. Chart. <hi>1.</hi>
+               </head>
+               <p>That the Major and Commonalty of <hi>London</hi> have ever had the Office of Bayliff, and Conſervation of the River of <hi>Thames,</hi> to be occupied by the ſaid Major, during his Majoralty or his Deputy (that is to ſay) from <hi>Stanes</hi> Bridge in <hi>Com' Middleſex,</hi> to a place called <hi>Kendall,</hi> alias <hi>Yeuland,</hi> alias <hi>Yeuleete,</hi> towards the Sea and Eaſt, and <hi>Medway,</hi> and on every Shore and Wharf of the ſame.</p>
+               <pb n="28" facs="tcp:44932:19"/>
+               <p>And to take the Fees and Profits belonging to the ſame.</p>
+               <p>And to meaſure Coals and Grain, Salt and Apples, and other Fruits, Roots, Onyons and all other Wares and Merchandizes, brought into the Port of <hi>London</hi> by any Veſſel, and to take the Profits and Fees thereof.</p>
+               <p>And they being hindred, ſuppoſing the ſame not anciently by any lawful Grant to belong to them, whereas it plainly appears, that they lawfully and right<g ref="char:EOLhyphen"/>fully ought to receive the ſame.</p>
+               <p>The ſaid King confirms the Fees and Profits to the ſaid Major, that they may execute the Office of Bayliff, to conſerve the ſaid River of <hi>Thames,</hi> from <hi>Stanes</hi> Bridge to <hi>Yeeuleet,</hi> and in <hi>Medway,</hi> and the Port of <hi>London,</hi> and every Bank of Shore there<g ref="char:EOLhyphen"/>of.</p>
+               <p>And to receive the Fees and Profits thereof as Bayliff, to the the uſe of the Major and Commonalty.</p>
+               <p>And to enjoy the Office of meaſuring of Coals, Grain, Fruits, Roots, Onyons, and other Merchandizes to be brought to any Port of <hi>London.</hi>
+               </p>
+               <p>To receive the Profits thereof, to the uſe of the ſaid Major and Commonalty, without the Kings hindrance or any other, without Accompt to be made for the ſame.</p>
+               <p>No other Water Bayliff to intermeddle.</p>
+               <p>And grants the ſaid Offices notwithſtanding any Non-Uſer or Abuſer of the ſame, and without the Hinde<g ref="char:EOLhyphen"/>rance of any of his Officers any Charter paſt to the con<g ref="char:EOLhyphen"/>trary.</p>
+            </div>
+            <div type="part">
+               <pb n="29" facs="tcp:44932:19"/>
+               <head>JAC. Chart. <hi>2.</hi>
+               </head>
+               <p>He thereby confirms all former Charters and Cuſtoms to the City of <hi>London.</hi>
+               </p>
+               <p>And grants a Reſtitution of all Liberties as fully as all their Predeceſſors enjoyed them, or ought to enjoy them.</p>
+               <p>That although the ſaid Major and Commonalty have not uſed or abuſed their Liberties and Cuſtoms, they may uſe the ſame for time to come, without Lett or Hinde<g ref="char:EOLhyphen"/>rance.</p>
+               <p>To hold the ſame by the like Services, Fee-Farm Rents and Sums of Money, as the ſame were for<g ref="char:EOLhyphen"/>merly held of the ſaid King, or of any of his Prede<g ref="char:EOLhyphen"/>ceſſors.</p>
+               <p>And thouugh the Search and Surveying of Oyl, Hops, Sope, Salt, Butter, Cheeſe, and other ſuch like things, brought to the Port of the ſame City of <hi>London</hi> to be ſold, and the Meaſuring of Corn of any kind, Ony<g ref="char:EOLhyphen"/>ons, Salt, Sea-cole, Fruit, and Shell-fiſh meaſurable, and uſed to be meaſured, and brought to the City of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> to be meaſured, hath appertained to the Major and Commonalty of the ſaid City, and their Predeceſſors, to be executed by the ſaid Major, according to the Statutes made concerning the ſame.</p>
+               <p>He doth Ratifie and Confirm the ſame Search, Sur<g ref="char:EOLhyphen"/>veying and Meaſuring, in and by all things as the ſaid Major, and Commonalty, and Citizens, or their Succeſ<g ref="char:EOLhyphen"/>ſors, lawfully had or enjoyed the ſame before, and to the ſaid Major and Commonalty by the ſaid Charter.</p>
+               <p>
+                  <hi>Grants,</hi> That the ſaid City and Liberties do extend through the Circuits of St. <hi>Trinity</hi> Pariſh near <hi>Aldgate,</hi>
+                  <pb n="30" facs="tcp:44932:20"/> or the <hi>Dukes-Place,</hi> Great St. <hi>Bartholomews,</hi> and Little St. <hi>Bartholomews,</hi> near <hi>Smithfield, Black-Friars, White-Friars,</hi> and the Liberty of <hi>Cold Harbourough.</hi>
+               </p>
+               <p>That the Inhabitants be under the Government of the ſaid City; Provided the Inhabitants of <hi>Black</hi> and <hi>White-Friars</hi> be exempted from all Taxes, <hi>&amp;c.</hi> except ſetting out Souldiers, and cleanſing of Lanes, <hi>&amp;c.</hi>
+               </p>
+               <p>The Inhabitants to be quit from the Offices of Conſta<g ref="char:EOLhyphen"/>ble, Scavenger, <hi>&amp;c.</hi> within the City.</p>
+               <p>The Free-men of the City inhabiting in <hi>Black</hi> and <hi>White Friars,</hi> are Eligible into all Offices, as Major, She<g ref="char:EOLhyphen"/>riffs, <hi>&amp;c.</hi> as other Free-men are.</p>
+               <p>
+                  <hi>Grants,</hi> That all Perſons who dwell within the Ci<g ref="char:EOLhyphen"/>ty, although not Free-men, (except the Inhabitants of <hi>Black</hi> and <hi>White-Friars</hi>) be Taxed for the Houſes in which they dwell, according to the Cuſtom of the City, and the Officers levy the ſame, (except before excepted) by Diſtreſs, <hi>&amp;c.</hi> to the Uſe aforeſaid; Provided any ſuch who are not Free-men, are unjuſtly grieved, the Chancel<g ref="char:EOLhyphen"/>lor to moderate ſuch Taxes, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Grants,</hi> That the Major, Recorder, and Aldermen who have been Majors, be Juſtices of <hi>Oyer</hi> and <hi>Termi<g ref="char:EOLhyphen"/>ner,</hi> the Major and Recorder to be of the <hi>Quorum,</hi> with power to take Security for the Peace, and to com<g ref="char:EOLhyphen"/>mit the Refuſers.</p>
+               <p>That no other Juſtices of the Peace ſhall intermed<g ref="char:EOLhyphen"/>dle.</p>
+               <p>That the Sheriffs ſhall be attendant to the aforeſaid Juſtices.</p>
+               <p>
+                  <hi>Grants,</hi> That the Major, <hi>&amp;c.</hi> may enjoy all Trea<g ref="char:EOLhyphen"/>ſure found within the Precincts before granted to the City. And to have theſe Patents under Seal, without Fine in the Hamper or other Fees, <hi>&amp;c.</hi>
+               </p>
+               <pb n="31" facs="tcp:44932:20"/>
+               <closer>
+                  <dateline>Dated at <hi>Hampton-Court,</hi> 
+                     <date>the 20th of <hi>September,</hi> of his Reign over <hi>England, &amp;c.</hi> the 5th. and of <hi>Scotland</hi> the 42<hi rend="sup">d</hi>.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="part">
+               <head>JAC. Chart. <hi>3.</hi>
+               </head>
+               <p>
+                  <hi>Grants</hi> the Major, <hi>&amp;c.</hi> to have the Meaſuring and Weighing of all Coals at the Port of <hi>London.</hi>
+               </p>
+               <p>And to receive as a Fee 8 <hi>d. per</hi> Ton, to the Uſe of the City.</p>
+               <p>The Merchant enjoyned not to unload his Coals till the Major have notice, and ſhall give direction for the unlading and weighing, or meaſuring thereof, that the Major may be able to render a ready Account, that ſo the Profits ariſing thereby may be paid to the Kings Officers.</p>
+               <p>The ſelling of Coals by Retail in Lighters prohi<g ref="char:EOLhyphen"/>bited.</p>
+               <p>No Coals to be ſold in any other Veſſel, than ſuch, which firſt brought them into the ſaid Port, unleſs up<g ref="char:EOLhyphen"/>on ſome Key, Port, or Wharf, near the River of <hi>Thames.</hi>
+               </p>
+               <p>Covenants, the ſaid City may enjoy the Premiſſes for ever.</p>
+               <p>If any Defect be in the ſaid Charter, or any Doubt or Scruple ariſe, the City upon Requeſt may have other Letters Patents.</p>
+               <closer>
+                  <dateline>Dated<date> 25 <hi>Septemb.</hi>
+                     </date> the 12th of <hi>England,</hi> of <hi>Scotland</hi> the 48th.</dateline>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="32" facs="tcp:44932:21"/>
+               <head>
+                  <hi>CHARLES</hi> 1. <hi>Chart.</hi> 1.</head>
+               <p>Grants to the Major and Commonalty of the City of <hi>London,</hi> in conſideration of their good Services, All and ſingular the Letters Patents, Charters, and Confirmati<g ref="char:EOLhyphen"/>ons of all and ſingular the Grants of his Predeceſſors, ex<g ref="char:EOLhyphen"/>cept, as hereafter is excepted.) And grants all and ſingular Lands, Tenements, Offices, Juriſdictions, Franches, Quittals, Immunities, <hi>&amp;c.</hi> which the ſaid Major, <hi>&amp;c.</hi> or their Prede<g ref="char:EOLhyphen"/>ceſſors, <hi>&amp;c.</hi> and Ratifies and Confirms the ſaid former Charters.</p>
+               <p>And alſo grants to the ſaid Major, <hi>&amp;c.</hi> and their Suc<g ref="char:EOLhyphen"/>ceſſors, that they be fully and wholly reſtored to all and ſingular their Authorities, Juriſdictions, Liberties, <hi>&amp;c.</hi> in as ample manner and Form as they or their Predeceſſors had uſed or enjoyed the ſame heretofore. And for the intent that no Ambiguity, Controverſie, doubtful Con<g ref="char:EOLhyphen"/>ſtruction, or Queſtion of or about the Premiſes, from thenceforth might ariſe, but be altogether taken away, for the Conſiderations aforeſaid, Confirms the ſaid Grant to the Major, <hi>&amp;c.</hi> and their Succeſſors, To <hi>hold</hi> the ſame for the like Services, Fees, Fee-farm Rent, Sums of Money and Demands, by which or what the ſame were former<g ref="char:EOLhyphen"/>ly held. And recites that which <hi>Henr.</hi> 6. by his Letters Patents bearing date at <hi>Weſtminſter</hi> the 26th of <hi>October,</hi> in the 23d year of his Reign, granted to the Citizens of the City, <hi>&amp;c.</hi> That the ſaid Citizens and their Succeſſors for ever, ſhould have all Soiles, Commons, Purpreſſures and Improvements in all Waſtes, Commons, Streets, Ways, and other places in the City and Suburbs, and in the Wa<g ref="char:EOLhyphen"/>ter of <hi>Thames,</hi> with the Profits of the ſame, and that they may improve. And whereas by an Act of Parliament made at <hi>Weſtminſter</hi> in the 28th year of the ſaid <hi>Henr.</hi> 6.
+<pb n="33" facs="tcp:44932:21"/> it was Enacted, That the ſaid King ſhould take, reſume, and ſeize into his hands and poſſeſſion, all what he had granted, to hold and retain the ſame in the like State he had them. And that all Letters Patents granted by the ſaid King ſhould be void. And recites, that <hi>H.</hi> 7. by his Letters Patents bearing date the 23d of <hi>July</hi> in the 20th year of his Reign, Confirms to the Major, <hi>&amp;c.</hi> all former Grants; And queſtions the Validity of both the Patents of <hi>H.</hi> 6. and <hi>H.</hi> 7. by reaſon of the Act of Parliament concerning the Reſumption, and by the ſame takes away the Doubt. And grants to the ſaid Major, Commonalty, and Citizens, and their Succeſſors, the ſame things in the ſaid Patents mentioned. And grants to the Major, <hi>&amp;c.</hi> That the Major and Recorder of the City for the time be<g ref="char:EOLhyphen"/>ing, and the Aldermen who have been Majors, although they ſhall de diſmiſſed of their Majoralty, ſhall ſtand Al<g ref="char:EOLhyphen"/>dermen, and that the three <hi>Senior</hi> Aldermen be Juſtices of the Peace, although they have not been Majors. The Major, Recorder, and Aldermen to be Juſtices of the Peace within the City of London, and Liberties thereof.</p>
+               <p>And alſo grants to the Mayor, <hi>&amp;c.</hi> That the Major and Recorder, and ſuch Aldermen, as aforeſaid, or four of them, but the ſaid Major, or Recorder to be one, may hold Seſſions of the Peace, to inquire after all manner of Murthers, Felonies, <hi>&amp;c.</hi> And alſo to inquire after all un<g ref="char:EOLhyphen"/>juſt Weights and Meaſures, and grants them full Power to Do and Execute all ſuch things which the Juſtices and Keepers of the Peace in any other County of <hi>England</hi> may or ought, by virtue of any Statute or Ordinance, by virtue of any Commiſſion to Execute or Do for the keep<g ref="char:EOLhyphen"/>ing of the Peace. And that the Sheriffs of the ſaid City and their Succeſſors be attending and aiding to the ſaid Keepers of the Peace of the ſaid City, when they ſhall be duely required to do the ſame.</p>
+               <pb n="34" facs="tcp:44932:22"/>
+               <p>And alſo grants to the ſaid Major all Recognizances to be taken and forfeited, for not appearing at the Seſſions. And alſo all manner of Recognizances taken by Juſtices of the Peace, concerning the keeping and maintaining of Baſtard Children, and keeping the City from Inmates, ſup<g ref="char:EOLhyphen"/>preſſing of Ale-houſes, and alſo the Forfeitures of Recog<g ref="char:EOLhyphen"/>nizances taken for the Appearances of Priſoners. And alſo Fines and Iſſues of Jurors, and all other Fines, Iſſues, and Amerciaments, together with Aſſeſſments, and Levies of the ſame, when, and as often as need ſhall require. And then excepts all manner of Iſſues and Amerciaments, called Fines and Iſſues Royal. And further grants the ſaid Major, <hi>&amp;c.</hi> all Recognizances that are forfeited or to be forfeited, taken for the Preſervation of the River of <hi>Thames,</hi> without any Account to be made for the ſame. And alſo grants them the Fines and Amerciaments that ſhall be impoſed by the Commiſſioners of Sewers, without any Account to be rendred for the ſame.</p>
+               <p>And alſo grants to the Major, <hi>&amp;c.</hi> all thoſe Fields cal<g ref="char:EOLhyphen"/>led <hi>Inward Moor,</hi> and <hi>Outward Moor,</hi> in the Pariſh of St. <hi>Giles</hi> without <hi>Cripplegate,</hi> St. <hi>Stephen</hi> in <hi>Colemanſtreet,</hi> and St. <hi>Botolph</hi> without <hi>Biſhopſgate,</hi> or in ſome, or any of them. And alſo <hi>Weſt Smithfield,</hi> That they hold in the Field called <hi>Smithfield,</hi> Fairs and Markets, and to receive and have Package, Stallage, Tolls and Profits thereunto belonging, Waſte Grounds and Streets reſerved out of the Grant, to hold the ſame in Common Burgage, and not in <hi>Capite,</hi> or Knights Service, and by the ſame pardons all Iſſues from the Major, <hi>&amp;c.</hi> And that no Writ of <hi>Ad quod dampnum,</hi> to be procured, Iſſued, or proſecuted. And alſo pardons all manner of Entries, Intruſions and Ingreſſes of the Major, Commonalty, and Citizens. That this grant ſhall not leſſen any Proclamation concerning Buildings in the ſaid City. What Incroachments that have been made
+<pb n="35" facs="tcp:44932:22"/> upon any of the Church Walls within the City of <hi>London,</hi> ſhall be ſubject to ſuch Reformation as He or his Privy Council ſhall appoint.</p>
+               <p>And alſo grants to the Major, <hi>&amp;c.</hi> the Office of Garb<g ref="char:EOLhyphen"/>ling of Merchandizes, and alſo grants them Garblers, To hold the ſaid Office, together with all the Fees, Profits, and Emoluments belonging to the ſame, without rendring any Account for the ſame. And for ſuch Goods and Spi<g ref="char:EOLhyphen"/>ces that heretofore have not paid any Fee, and hath not heretofore been Imported, ſuch Fees to be ſettled by the Lord Chancellor, Lord Treaſurer, Lord Privy Seal, Stew<g ref="char:EOLhyphen"/>ard of the Houſhold, two of the Juſtices of the <hi>King</hi>'s <hi>Bench,</hi> or <hi>Common Bench,</hi> for the time being, or any four of them at leaſt, Except and reſerving all ſuch like Grants of the Garbling of <hi>Tobacco.</hi> And grants to the ſaid Mayor, <hi>&amp;c.</hi> the Office of Gauging of Wines, Oyles, and other Merchandizes, <hi>To have and to hold</hi> the ſaid Office of Gauger, with all and ſingular the Fees, Profits, and Emo<g ref="char:EOLhyphen"/>luments, without rendring any Account for the ſame.</p>
+               <p>And alſo grants to the ſaid Major, <hi>&amp;c.</hi> the great Stan<g ref="char:EOLhyphen"/>dard, and Common Ballance, ordained to weigh between Merchant and Merchant, and alſo the Office of Keeper of the great Ballance, for the weighing of all Merchandize of <hi>Avoir du pois, To have</hi> and to <hi>hold</hi> the ſaid Office, with the Fees, Profits, Wages, Rewards, and Emoluments there<g ref="char:EOLhyphen"/>unto belonging, without rendring any Account for the ſame.</p>
+               <p>And alſo by the ſaid Grant doth Erect and Create through the ſaid City and Liberties thereof, and in and through the Burrough of <hi>Southwark,</hi> a certain Office cal<g ref="char:EOLhyphen"/>led Outroper, or Common-Cryer, to and for the ſelling of Houſhold-ſtuff, <hi>&amp;c.</hi> that ſuch Goods may be ſold by Out-cry, which ſaid Office he grants to the Major, <hi>&amp;c.</hi> to have and exerciſe the ſaid Office by ſuch Officer as ſhall
+<pb n="36" facs="tcp:44932:23"/> be admitted by the Major and Commonalty for the time being, they being aſſembled in Common Councel, or the <hi>major</hi> part of them, and that it ſhall and may be lawful to and for the Major, Commonalty, or their Deputy, to demand and take for the Uſe of the Major and Common<g ref="char:EOLhyphen"/>alty, the Wares and Fees expreſſed in a certain Schedule hereunto annexed. And thereby charges and commands, that no other Perſon do ſell any Goods, Chattels, Houſhold<g ref="char:EOLhyphen"/>ſtuff, <hi>&amp;c.</hi> or other things in publick claim, called Out-cry, in the ſaid City, or Liberties of the ſame, and Bur<g ref="char:EOLhyphen"/>rough of <hi>Southwark,</hi> under pain of his Royal Diſplea<g ref="char:EOLhyphen"/>ſure.</p>
+               <p>And alſo grants to the Major, <hi>&amp;c.</hi> and doth thereby declare, the Relicts and Widows of Free-men uſing Ma<g ref="char:EOLhyphen"/>nual Arts and Occupations, as long as they ſhall continue Widows, may be licenſed to uſe and exerciſe the ſame Arts and Manual Occupations in the ſaid City, al<g ref="char:EOLhyphen"/>though they were not educated, by the ſpace of ſeven years as Apprentices, notwithſtanding the Statute of the 5th of Queen <hi>Elizabeth,</hi> or any other Statute whatſoever. And alſo, that no Market be kept within ſeven Miles of the City.</p>
+               <p>And alſo grants to the Major and Commonalty, the Major, <hi>&amp;c.</hi> by the mouth of the Recorder, to record their Cuſtoms: and if at any time it ſhall happen that the Cu<g ref="char:EOLhyphen"/>ſtom of the City lye pleaded in any of his Majeſties Courts, that then ſuch Cuſtom to be certified to the Court by the Mouth of the Recorder, and no Jury or Enquiry thereon to be had, and thereupon they may proceed to the Cap<g ref="char:EOLhyphen"/>tion and Determination of the Plea.</p>
+               <p>And alſo grants to the Major, <hi>&amp;c.</hi> Treaſure found in the ſaid City, or Liberties of the ſame: and alſo waived and ſtrayed Goods and Chattels of all Felons and Fu<g ref="char:EOLhyphen"/>gitives, for Felonies committed in the City or Liber<g ref="char:EOLhyphen"/>ties
+<pb n="37" facs="tcp:44932:23"/> thereof. And alſo grants that the Major of the City may name to the Chancellor of <hi>England</hi> two of the Al<g ref="char:EOLhyphen"/>dermen of the City, one to be Juſtice of the Peace in <hi>Middleſex,</hi> and the other in <hi>Surry,</hi> and ſhall be incerted with others in the Commiſſion.</p>
+               <p>And in the ſaid Charter recites, that whereas ſeveral the Sons of Freemen of the ſaid City and others, who have ſerved ſeven years Apprentiſhip, doth refuſe to take their Freedom, but notwithſtanding uſe the Trade of Merchandizing, whereby they obtain great Eſtates, and by not taking their Freedom, free themſelves from the Burthen of publick Office, for ſuch Perſons who do ſo trade, or are Sons of Freemen, or ſerved ſeven years as an Apprentice, is prohibited to Merchandize before he hath taken his Freedom, and is to bring a Teſtimonial from the Chamberlain or under Chamberlain, that they are admitted into the Liberty of the ſaid City. And al<g ref="char:EOLhyphen"/>ſo commands, that no Merchant being a Free-man of the City, ſhall take any Apprentice to ſerve him for leſs than ſeven years, to be bound and inrolled according to the Cuſtom of the ſaid City, and not otherwiſe. And recites an Act of Parliament, made in the third of King <hi>James,</hi> that every Citizen and Free-man of the City of <hi>London,</hi> and every other Perſon and Perſons inhabiting, or which ſhould inhabit in the ſaid City of <hi>London,</hi> or the Liberties of the ſame, being a Tradeſman, Victualer, Labourer, who then had or from thenceforth ſhall have any Debt or Debts owing to him or them not amounting to 40 <hi>s.</hi> by any Citizen, or any other Perſon or Perſons, being a Victualer, Tradeſman or Labourer, who doth or ſhall in<g ref="char:EOLhyphen"/>habit within the City or the Liberties of the ſame, may cauſe ſuch like Debtor or Debtors, to be warned or ſum<g ref="char:EOLhyphen"/>moned by the Beadle or Officer of the Court of Requeſts at <hi>Guildhal, London,</hi> for the time being, to be left at the
+<pb n="38" facs="tcp:44932:24"/> Dwelling-houſe of ſuch Debtor or Debtors, or by any reaſonable Warning to be given to appear before the Com<g ref="char:EOLhyphen"/>miſſioners of the ſaid Court of Requeſt, as by the ſaid Act appears. By the ſame he conſtitutes, that there ſhall be a certain Office of a Clerk of the ſaid Court, and that he ſhall be appointed by the Major, Commonalty, and Ci<g ref="char:EOLhyphen"/>tizens aſſembled in Common Councel, or the greater part thereof, to be Clerk, there to write, enter, and regiſter Warrants, Precepts, Proceſſes, Acts, Orders, and Exe<g ref="char:EOLhyphen"/>cutions of the Court; and for his Labour and Attentance to have and receive the Fees and Wages expreſſed in a Schedule, or Table hereafter mentioned or ſet down. And alſo grants them the Office of a Beadle of the ſaid Court, to be named and appointed by the Major, Com<g ref="char:EOLhyphen"/>monalty and Citizens aſſembled in Common Councel or the greater Part of them. To ſummon all ſuch Perſons to appear to anſwer ſuch Perſons appointed in the ſaid Act, and to ſerve and execute Warrats, Precepts and Pro<g ref="char:EOLhyphen"/>ceſſes of the ſaid Court, and to receive for their Wages and Labour the Fees expreſſed in a certaine Schedule or Table hereafter mentioned or ſet down.</p>
+               <p>And whereas divers Burglaries, Felonies, Robberies, Clan<g ref="char:EOLhyphen"/>deſtine Stealings, and Thefts of Goods <hi>&amp;c.</hi> was daily committed in the ſaid City and Liberties, to the grievous Damage of the People, for the better Diſcovery of ſuch Offenders, and of things loſt, it is granted and conſti<g ref="char:EOLhyphen"/>tuted, that from thenceforth, there ſhall be a certain Of<g ref="char:EOLhyphen"/>fice of Regiſter to be made to retailing Brokers for any Goods <hi>&amp;c.</hi> And grants to the Major, Commonalty, <hi>&amp;c.</hi> to execute the ſaid Office by them or their Deputies; firſt to be admitted by the Major, and Commonalty, and Ci<g ref="char:EOLhyphen"/>tizens aſſembled in Common Councel, or the greater Part of them. And that it ſhall and may be lawful for them or their Deputy, to take and receive ſuch Fees as
+<pb n="39" facs="tcp:44932:24"/> are in a Table hereafter mentioned, without any Account to be given for the ſame</p>
+               <p>And alſo grants to the Major, Commonalty, <hi>&amp;c.</hi> to expoſe and hang over the Streets, Ways, and Allies of the ſaid City, Signs and Poſts of Signs, affixed to their Houſes and Shops, for the better finding out ſuch Citizens Dwellings, without Impediment, Moleſtati<g ref="char:EOLhyphen"/>on, or Interruption of the King or his Succeſ<g ref="char:EOLhyphen"/>ſors.</p>
+               <p>And alſo recites a Patent of <hi>Hen.</hi> 8th, dated the 13th of <hi>Jan.</hi> in the 28th year of his Reign, of a Grant to the Major and Commnalty, <hi>&amp;c.</hi> for the keeping, ordering, and govern<g ref="char:EOLhyphen"/>ing of an Hoſpital called <hi>Bethlem,</hi> and all the Mannors, <hi>&amp;c.</hi> made and conſtituted by the ſaid Letters Patents, to the ſaid Major and Commonalty for ever. And alſo for the better enabling and ſupporting of the houſe of the Poor in <hi>Weſt-Smithfield,</hi> confirms the Indenture made between the ſaid King <hi>Henry</hi> the Eighth, and the Major, Commo<g ref="char:EOLhyphen"/>nalty, and Citizens, and grants them the Ordering and Government of the Houſe or Hoſpital, called <hi>Bethlem,</hi> with Manors, Lands, <hi>&amp;c.</hi> thereunto belonging. To have and to hold the Cuſtody and Government of the ſaid Ho<g ref="char:EOLhyphen"/>ſpital, and the Manors, Lands, <hi>&amp;c.</hi> for ever, to the Uſes, Intents, and Purpoſes in the Charter of <hi>Henry</hi> the Eighth, But that the Revenues, of the ſaid Hoſpital be employed to no other Uſe, than charitable Uſes in the ſaid Ho<g ref="char:EOLhyphen"/>ſpital.</p>
+               <p>And alſo doth charge and command, that the ſaid Major, Commonalty <hi>&amp;c.</hi> do not grant any of the ſaid Ma<g ref="char:EOLhyphen"/>nors, Lands, <hi>&amp;c.</hi> not for above the Term, of 21 years, to commence from the time of the making of it, reſer<g ref="char:EOLhyphen"/>ving half of the yearly Value, at leaſt of ſuch Manors, Lands <hi>&amp;c.</hi> ſo Leaſes to be paid during the ſaid Term, to the Major, Commonalty, <hi>&amp;c.</hi> to the Uſes above menti<g ref="char:EOLhyphen"/>oned.</p>
+               <pb n="40" facs="tcp:44932:25"/>
+               <p>And alſo grants to the Major, Commonalty, <hi>&amp;c.</hi> That it ſhall and may be lawful to and for the ſaid Major, Com<g ref="char:EOLhyphen"/>monalty, <hi>&amp;c.</hi> to purchaſe to them and their Succeſſors, of any Perſon whatſoever five Acres of Land, lying and being in St. <hi>Giles</hi> in the Fields in the County of <hi>Middle<g ref="char:EOLhyphen"/>ſex,</hi> being then in the occupation of <hi>Margaret Pennel,</hi> al<g ref="char:EOLhyphen"/>though the ſame be held of the King in <hi>Capite, To have and to hold</hi> to the ſaid Major and Commonalty, <hi>&amp;c.</hi> for ever. And alſo gives Licenſe to all Perſons that are con<g ref="char:EOLhyphen"/>cerned in the ſame, to ſell, notwithſtanding they are held in <hi>Capite</hi> by Knights Service, and notwithſtanding the Statute of putting of Lands and Tenements in <hi>Mortmain.</hi> And alſo grants them full power to build upon the ſaid five Acres without Licenſe, notwithſtanding any Statute to the contrary.</p>
+               <p>And alſo doth further grant to the Major, Commonal<g ref="char:EOLhyphen"/>ty, <hi>&amp;c.</hi> That the recited Letters Patents and the Inrol<g ref="char:EOLhyphen"/>ment, ſhall be in all things found valid, good, ſufficient, and effectual in Law, without further Confirmation, Li<g ref="char:EOLhyphen"/>cenſe or Toleration to be procured or obtained, notwith<g ref="char:EOLhyphen"/>ſtanding any Writ or Writs of <hi>Ad quod dampnum</hi> being not iſſued out, returning before the making of the ſaid Patent, notwithſtanding any <hi>Miſnomer</hi> in any part of the ſaid Grant.</p>
+               <p>And alſo grants to the ſaid Major, Commonalty, <hi>&amp;c.</hi> That they ſhall have the Letters Patents made and ſealed under the Great Seal of <hi>England,</hi> without paying any Fine or Fee great or little, to the Hamper or otherwiſe.</p>
+               <closer>
+                  <dateline>Dated at <hi>Weſtminſter</hi> 
+                     <date>the 18th day of <hi>October,</hi> in the 14th year of our Reign.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="table_of_fees">
+               <pb n="41" facs="tcp:44932:25"/>
+               <head>Fees taken by the Common <hi>Outroper.</hi>
+               </head>
+               <list>
+                  <item>FOR ſelling of Goods ¼ in every Shilling.</item>
+                  <item>For writing and keeping the Books, 1 <hi>d. per l.</hi>
+                  </item>
+                  <item>To the Cryer for crying the Goods, 1 <hi>s.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="table_of_fees">
+               <head>
+                  <hi>Clerks</hi> Fees of the Court of Conſcience in <hi>London.</hi>
+               </head>
+               <list>
+                  <item>For every Plaint 2 <hi>d.</hi>
+                  </item>
+                  <item>For every Appearance 2 <hi>d.</hi>
+                  </item>
+                  <item>For every Order 4 <hi>d.</hi>
+                  </item>
+                  <item>For every Remittance to the Common Law 4 <hi>d.</hi>
+                  </item>
+                  <item>For every Precept or Warrant to commit to Priſon 6 <hi>d.</hi>
+                  </item>
+                  <item>For every Search 2 <hi>d.</hi>
+                  </item>
+                  <item>For every Satisfaction acknowledged on an Order 6 <hi>d.</hi>
+                  </item>
+                  <item>For Warning every Perſon within the Liberty 4 <hi>d.</hi>
+                  </item>
+                  <item>For Warning every Perſon without the Liberties 6 <hi>d.</hi>
+                  </item>
+                  <item>For ſerving every Precept or Warrant 4 <hi>d.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="table_of_fees">
+               <head>Fees taken by the Regiſter of <hi>Broakers.</hi>
+               </head>
+               <list>
+                  <item>For the Bond to be entred into by every Broaker, Brog<g ref="char:EOLhyphen"/>ger and Huckſter, to the Chamber 8 <hi>d.</hi>
+                  </item>
+                  <item>For every Bargain, Contract, Pawn, for or upon which there ſhall be lent or given 1 <hi>s.</hi> or above, and under 5 <hi>s.</hi> ¼</item>
+                  <item>For every the like that ſhall be lent 5 <hi>s.</hi> or more, and un<g ref="char:EOLhyphen"/>der 20 <hi>s.</hi> ½</item>
+                  <item>For every the like on which ſhall be lent 20 <hi>s.</hi> or more, and under 40 <hi>s.</hi> 1. <hi>d.</hi>
+                  </item>
+                  <item>For every the like on which ſhall be lent 40 <hi>s.</hi> or more 2 <hi>d.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <pb n="42" facs="tcp:44932:26"/>
+               <head>
+                  <hi>CHARLES</hi> 1. <hi>Chart.</hi> 2.</head>
+               <p>There is another Charter of the ſaid King, wherein he grants to the Major and Commonalty of the City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> the Office and Paccage of all Cloths, Wools, Wool<g ref="char:EOLhyphen"/>fells, Calves Skins, Goats Skins, Bales of Tin, and all other Merchandizes whatſoever to be packed, piped, barrelled or otherwiſe, out of the ſaid Port, to be tranſported be<g ref="char:EOLhyphen"/>yond the Seas, as the Goods and Merchandizes as well of Aliens, and Perſons born under Foreign Allegiance, where<g ref="char:EOLhyphen"/>ſoever they ſhould be cuſtomed. And alſo the Office, as well for Surveying of Goods and Wares, of any Merchant Alien, or Denizen, whoſe Father was or ſhould be an Alien born beyond the Seas to be brought in by the way of Merchandizes, and alſo grants the Billage of Goods and Wares of ſuch Merchants aforeſaid, within the Port of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> in any Ship, Boat, Barge or Veſſel whatſoever, all which was granted for the ſeveral Charters of <hi>Edw.</hi> 4. in the firſt and 18 year of his Reign, and alſo by a Charter of <hi>Hen.</hi> 8. in the third year of his Reign, and was confirmed by Au<g ref="char:EOLhyphen"/>thority of Parliament. And alſo he confirms the ſaid Grant to the Major, Commonalty <hi>&amp;c.</hi> for the Conſideration of the Sum of 4200 <hi>l.</hi> and ſo confirms the ſaid Office to the Major, Commonalty, <hi>&amp;c.</hi> And grants them the Fees an<g ref="char:EOLhyphen"/>nexed in a certain Table hereafter. And furthermore grants them the Office of Paccage, with all and ſingular the Fees Profits and Emoluments to the ſaid Office belonging or ap<g ref="char:EOLhyphen"/>pertaining, annexed in a certain Table hereafter. And al<g ref="char:EOLhyphen"/>ſo to exerciſe the ſaid Office by their Deputy or Deputies without rendring any Account for the ſame, and without incurring any Penalty or Forfeiture of the ſaid Office.</p>
+               <p>And that no Porter or Carrier, or any Perſon or Perſons whatſoever, ſhall preſume or intermit, or intrude themſelves
+<pb n="43" facs="tcp:44932:26"/> to carry or lade any of the ſaid Goods or Merchandize from any Wharf without the ſpecial Approvement or by <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nce of the Major, Commonalty, <hi>&amp;c.</hi> or their Officer<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Deputies. And that ſuch Porter or Carrier that ſhall carry, ſhall be appointed by the Major, Commonalty, <hi>&amp;c.</hi> or their ſufficient Deputies, and the ſaid Porters to be paid for their Wages, as the Table hereafter mentioneth, and no Account to be rendred for the ſame, except the Rent hereafter re<g ref="char:EOLhyphen"/>ſerved, and ſo confirms the ſaid Grant of Scavage, Paccage and Billage to the Major, Commonalty, and Citizens of the ſaid City for ever, without incurring any Penalty of the ſaid Offices of Imployments, or either of them. And alſo that all Aliens and Denizens ſhall from time to time, make and deliver to the Major, Commonalty, <hi>&amp;c.</hi> or their Depu<g ref="char:EOLhyphen"/>ties, or Collectors, Bills of Entry of all and every the Goods Merchandizes and Wares that ſhall from time to time be brought within the Liberties and Franchiſes of the City and Suburbs thereof, upon Pain of further Puniſhment, yielding and paying by the ſaid Major, Commonalty, <hi>&amp;c.</hi> at the Exchequer at <hi>Weſtminſter,</hi> 3 <hi>l.</hi> 6. <hi>s.</hi> 8 <hi>d.</hi> at the Feaſt of St. <hi>Michael</hi> the Arch-angel, and the Annunciation of the Bleſſed Lady, the Virgin <hi>Mary,</hi> by equal Portions every year to be paid. And further, that if any Merchant-Alien or Denizen, ſhall at any time by any ſiniſter way or falſe Practice, conceal ſuch Goods and Merchandizes, whereby to defraud the ſaid Major, Commonalty, <hi>&amp;c.</hi> of their Juſt Fees to them appointed and confirmed; That then it ſhall and may be lawful to and for the ſaid Major, and to and for the lawful Deputy or Deputies of the ſaid Major and Commonalty of the ſaid City, to adminiſter an Oath to ſuch Perſon or Perſons, as he or they ſhall ſuſpect to conceal ſuch Goods and Merchandizes.</p>
+               <closer>
+                  <dateline>Dated at <hi>Weſtminſter</hi> 
+                     <date>the 5th of <hi>September,</hi> in the 16th Year of our Reign.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+         <div type="table_of_rates">
+            <pb n="44" facs="tcp:44932:27"/>
+            <head>THE Scavage Table OF RATES INWARDS.</head>
+            <list>
+               <head>A</head>
+               <item>ALlum the C Weight qt. 112. l. ij d</item>
+               <item>Amotto the C. qt. Five Score iiij d</item>
+               <item>Apples and Pears the little Barrel q</item>
+               <item>Aquavitae the Hogſhead vj d</item>
+               <item>Argil White or Red the C. Weight qt. 112 l. id ob</item>
+            </list>
+            <list>
+               <head>B</head>
+               <item>Babbies Heads the Dozen ob</item>
+               <item>Bacon the C. weight qt. 112 l. iij d</item>
+               <item>Bandſtrings the Dozen Knots q</item>
+               <item>Balks
+<list>
+                     <item>Great the C. qt. Six Score xviij d</item>
+                     <item>Middle the C. qt. Six Score. xiiij d</item>
+                     <item>Small the C. qt. Six Score. iiij d</item>
+                  </list>
+               </item>
+               <item>Barlings the C. qt. Six Score iiij d</item>
+               <item>Barley the Quarter qt. Eight Buſhels ob</item>
+               <item>Barilla or Saffora the Barrel qt. C. Weight iiij d</item>
+               <pb n="45" facs="tcp:44932:27"/>
+               <item>Basket Rods the Dozen Bundles iiij d</item>
+               <item>Baſt Ropes the C. Weight qt. 112 l. ob</item>
+               <item>Battery Baſherows or Kettles the C. Weight qt. 112 l. vj d</item>
+               <item>Beef the Barrel i d</item>
+               <item>Bell-Mettal the C. weight qt. 112 l. ij d</item>
+               <item>Beans the Quarter ob</item>
+               <item>Blacking, or Lamb-Black, the C. Weight qt. 112 l. iij d</item>
+               <item>Bottles of all ſorts the Dozen ob</item>
+               <item>Boards
+<list>
+                     <item>Barrel Boards the Thouſand iiij d</item>
+                     <item>Clapboards the C. qt. Six Score i d</item>
+                     <item>Pipe-Boards the C. qt. Six Score i d</item>
+                  </list>
+               </item>
+               <item>Borattos or Bombaſins
+<list>
+                     <item>Narrow the ſingle Piece, not above xv Yards ij d</item>
+                     <item>Broad the ſingle Peice, not above xv Yards iij d</item>
+                  </list>
+               </item>
+               <item>Books unbound the Basket or Maund viij d</item>
+               <item>Bowe-ſtaves the C qt. Six Score ij d</item>
+               <item>Braſs Andirons, Lavercocks, Chafing-Diſhes, and all other Braſs or Latten Wrought the C. qt. Five Score. iij d</item>
+               <item>Brimſtone the C. Weight 112 l. ob</item>
+               <item>Briſtles the Dozen Pound ob</item>
+               <item>Buckroms
+<list>
+                     <item>Of <hi>Germany</hi> the Dozen Pieces iij d</item>
+                     <item>Of <hi>France</hi> the Dozen Pieces ij d</item>
+                  </list>
+               </item>
+               <item>Buffins Liles and Mocadoes
+<list>
+                     <item>Narrow the ſingle Piece, not above xv Yards i d</item>
+                     <item>Broad the ſingle Piece, not above xv Yards ij d</item>
+                  </list>
+               </item>
+               <item>Bull-ruſhes the Load i d</item>
+               <item>Burrs for Mill-ſtones the C. qt. Five Score iij d</item>
+               <item>Butter the C. Weight qt. 112 l. i d</item>
+            </list>
+            <list>
+               <head>C</head>
+               <item>CAble-ropes for Cordage the C. Weight qt. 112. l. i d</item>
+               <item>Cabinets
+<list>
+                     <item>Great the Piece ij d</item>
+                     <item>Small the Piece i d</item>
+                  </list>
+               </item>
+               <pb n="46" facs="tcp:44932:28"/>
+               <item>Caddas or Cruel Ribbons the Dozen Pieces; qt. each Piece xxxvj Yards i d</item>
+               <item>Candle Week the C. Weight qt. 112 l. i d</item>
+               <item>Candles of Tallow the Dozen Pound q</item>
+               <item>Capers the C. Pound qt. Five Score. ij d</item>
+               <item>Capravens the C. qt. Six Score. iij d</item>
+               <item>Cards
+<list>
+                     <item>Playing Cards the ſmall Groce, qt. 12 Dozen Pair ij d</item>
+                     <item>Wool-Cards the Dozen Pair ob</item>
+                  </list>
+               </item>
+               <item>Carpets
+<list>
+                     <item>
+                        <hi>Turkey, Perſia, Eaſt-India,</hi> and <hi>Venice,</hi> Long, the Piece. vj d</item>
+                     <item>Of the ſame, or like ſorts, Short, the Piece iiij d</item>
+                     <item>Carpets of all other ſorts the Piece ob</item>
+                  </list>
+               </item>
+               <item>Caſes
+<list>
+                     <item>For Looking-Glaſſes gilt from No. 3. to No. 10. the Dozen i d ob</item>
+                     <item>For Looking-Glaſſes ungilt, the Dozen ob</item>
+                  </list>
+               </item>
+               <item>Chamlets Moy-hair, and <hi>Turkey</hi> Grograms, each xv Yards i d ob</item>
+               <item>Cheeſe the C. Weight qt. 112 l. i d</item>
+               <item>Cherries the C. Weight qt. 112 l. i d ob</item>
+               <item>Cloth
+<list>
+                     <item>French Wollen each Twenty Yards viij d</item>
+                     <item>Scarlet the Yard i d</item>
+                  </list>
+               </item>
+               <item>Cochenele
+<list>
+                     <item>Silveſter, or Campecha the Pound ob</item>
+                     <item>Of all other ſorts the Pound i d</item>
+                  </list>
+               </item>
+               <item>Combes of Box or Light Wood the Groce qt. xij Dozen q</item>
+               <item>Copper Bricks or Plates, Round or Square the C. Weight iiij d</item>
+               <item>Copperas the C. Weight qt. 112 l. i d</item>
+               <item>Coral Rough or Poliſht the Maſt qt. xxij l. ij d</item>
+               <item>Cork the C. Weight qt. 112 l. i d</item>
+               <item>Cork the Dozen Pieces, for Shoe-makers q</item>
+            </list>
+            <list>
+               <head>D</head>
+               <item>DEal Boards of all ſorts the C. qt. Six Score xij d</item>
+               <item>Dogs of Earth the ſmall Groce qt. xij Doz. i d ob</item>
+               <pb n="47" facs="tcp:44932:28"/>
+               <item>Durance of Duretty
+<list>
+                     <item>With Thread, each xv Yards i d ob</item>
+                     <item>With Silk, each xv Yards ij d</item>
+                  </list>
+               </item>
+               <item>Drugs
+<list>
+                     <item>Amber-greece the Ounce i d ob</item>
+                     <item>Alloſicatrina the Pound ob</item>
+                     <item>Barley Hull'd the C. Weight, qt. 112 l. i d</item>
+                     <item>Carway and Comin-ſeed the C. Weight i d ob</item>
+                     <item>China-roots the C. Weight qt. five Score xviij d</item>
+                     <item>Civet the Ounce 1 d</item>
+                     <item>Gum Armoniac the C. <hi>l.</hi> qt. Score vj d</item>
+                     <item>Musk
+<list>
+                           <item>The Ounce i d</item>
+                           <item>Cods the Dozen i d</item>
+                        </list>
+                     </item>
+                     <item>Saunders White or Red the C. qt. Five Score vj d</item>
+                     <item>Treacle Common the C. qt. Five Score ij d</item>
+                     <item>Turpentine Com. the C weight, qt. 112 <hi>l.</hi> i d</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>F</head>
+               <item>FEathers for Beds the C weight qt. 112 <hi>l.</hi> ij d</item>
+               <item>Fiſh
+<list>
+                     <item>Cod-fiſh the C. qt. ſix Score iiij d</item>
+                     <item>Cole-fiſh the C. qt. ſix Score i d</item>
+                     <item>Eeles the Barrel i d</item>
+                     <item>Eeles Quick the Ship Lading x s.</item>
+                     <item>Herrings white or red the Laſt vi d</item>
+                     <item>Lings the C. qt. ſix Score vi d</item>
+                     <item>Lub-fiſh the C. qt. ſix Score ii d</item>
+                     <item>Croplings the C. qt. ſix Score i d</item>
+                     <item>Titlings the C. qt. ſix Score ob</item>
+                     <item>Sturgeon, The Firkin 1 d. The Keg ob</item>
+                     <item>Salmon the Barrel i d ob</item>
+                  </list>
+               </item>
+               <item>Flax the C weight qt. 11<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>l.</hi> ij d</item>
+               <item>Flax Undreſt the C weight qt. 112 <hi>l.</hi> i d ob
+<list>
+                     <item>Dreſt or wrought the C weight qt. 112 <hi>l.</hi> iiij d</item>
+                  </list>
+               </item>
+               <item>Frankincenſe the C. qt. 112. <hi>l.</hi> i d ob</item>
+               <pb n="48" facs="tcp:44932:29"/>
+               <item>Fuſtians
+<list>
+                     <item>Barmillions the piece, or two half pieces, qt. x<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> yards each half piece ii d</item>
+                     <item>
+                        <hi>Naple</hi> Fuſtians, Tripe, or Velver, the piece, qt. xv yards ii d</item>
+                  </list>
+               </item>
+               <item>Furrs
+<list>
+                     <item>Bever-Skins the piece ob</item>
+                     <item>Bever-Bellies or Wombs the dozen iiij d</item>
+                     <item>Budge tawed or untawed the C. qt. v ſcore ii d</item>
+                     <item>Fox-Skins the C. qt. five ſcore iiij d</item>
+                     <item>Foins without Tails the dozen i d ob</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>G</head>
+               <item>GAlley-Diſhes each 12 dozen i d</item>
+               <item>Gauls the C weight qt. 112 <hi>l.</hi> ii d</item>
+               <item>Glaſs for Windows the Cheſt or Caſe iij d</item>
+               <item>Glaſs, called <hi>Venice</hi> Drinking-glaſſes the dozen ob</item>
+               <item>Glaſſes Looking-Glaſſes
+<list>
+                     <item>Half-penny Ware the Groce qt. 12 Doz. q</item>
+                     <item>Penny ware the Groce, qt. 12 Dozen ob</item>
+                     <item>Of Steel ſmall the dozen ob</item>
+                     <item>Of Steel large the Dozen i d</item>
+                     <item>Of Chryſtal ſmall the Doz. under No. 6. i d</item>
+                     <item>Of Chryſtal middle the Doz. No. 6. ii d</item>
+                     <item>Of Chryſtal the doz. Numb. 7, 8, 9, 10. iiii d</item>
+                     <item>Of Chriſtal the dozen No. 11, 12. xviij d</item>
+                  </list>
+               </item>
+               <item>Glaſs-Stone-plates for Spectacles rough, the dozen ob</item>
+               <item>Glaſs-Plates or Sights for Looking-Glaſ<g ref="char:EOLhyphen"/>ſes unfoil'd
+<list>
+                     <item>Of Chryſtal ſmall under No. 6. the doz. ob</item>
+                     <item>Of Chryſtal No. 6. the dozen i d</item>
+                     <item>Of Chryſtal No. 7, 8, 9, 10. the dozen ii d</item>
+                     <item>Of Chryſtal, No. 11, 12. the dozen 12 d</item>
+                  </list>
+               </item>
+               <item>Gloves of Spaniſh Leather the dozen pair ob</item>
+               <item>Grain for Dyers
+<list>
+                     <item>Of Scarlet Powder the pound ob</item>
+                     <item>Of Sevil in Berries and Grain of <hi>Portugal,</hi> or <hi>Rotta</hi> the pound q</item>
+                  </list>
+               </item>
+               <pb n="49" facs="tcp:44932:29"/>
+               <item>Grocery
+<list>
+                     <item>Almonds the C weight qt. 112 <hi>l.</hi> iii d</item>
+                     <item>Anniſeeds the C weight qt. 112 <hi>l.</hi> ii d</item>
+                     <item>Cloves the C weight qt. Five ſcore xviij d</item>
+                     <item>Currants the C weight qt. 112 <hi>l.</hi> iii d</item>
+                     <item>Dates the C weight qt. 112 <hi>l.</hi> iiij d</item>
+                     <item>Figgs the C weight qt. 112 <hi>l.</hi> i d</item>
+                     <item>Fuſſes of Cloves the C. qt. five ſcore viii d</item>
+                     <item>Ginger the C. qt. five ſcore xii d</item>
+                     <item>Liquoriſh the C weight qt. 112 <hi>l.</hi> i d ob</item>
+                     <item>Mace the C <hi>l.</hi> qt. five ſcore ii s</item>
+                     <item>Nutmegs the C <hi>l.</hi> qt. five ſcore xviij d</item>
+                     <item>Pepper the C <hi>l.</hi> qt. five ſcore vi d</item>
+                     <item>Prunes the C weight qt. 112 <hi>l.</hi> i d</item>
+                     <item>Raiſins of the Sun the C weight, qt. 112 <hi>l.</hi> ij d</item>
+                     <item>Raiſins great, or <hi>Malaga,</hi> the C weight qt. 112 <hi>l.</hi> i d</item>
+                     <item>Cinamon the C weight qt. five ſcore xij d</item>
+                     <item>Sugar
+<list>
+                           <item>Refined, the C weight qt. 112 <hi>l.</hi> x d.</item>
+                           <item>Candy Brown or White the hundred weight viij d</item>
+                           <item>Muſcavadoes and White the hundred weight iiij d</item>
+                           <item>St. <hi>Thome</hi> and <hi>Penellis</hi> the C weight ij d</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>Goats-Hair the C <hi>l.</hi> qt. five ſcore vj d.</item>
+               <item>Gun-powder the Barrel qt. 112 <hi>l.</hi> iii d.</item>
+               <item>Gum Arabick the C weight, qt. 112 <hi>l.</hi> ii d.</item>
+            </list>
+            <list>
+               <head>H</head>
+               <item>HAwks of all ſorts, the Hawk ii d</item>
+               <item>Hatts
+<list>
+                     <item>Beaſt or Straw-Hats the dozen q</item>
+                     <item>Beaſt or Straw-hats plain the groce qt. 12 doz. i d ob</item>
+                     <item>Wool-fells the dozen i d ob</item>
+                     <item>Demy-caſters the piece ob</item>
+                     <item>Beaver-hats the piece ii d.</item>
+                  </list>
+               </item>
+               <pb n="50" facs="tcp:44932:30"/>
+               <item>Headlings for Pipes, Hogſheads, or Barrels, the thouſand ii d</item>
+               <item>Heath for Bruſhes the C weight qt. 112 <hi>l.</hi> i d</item>
+               <item>Hemp undreſt the C weight qt. 112 <hi>l.</hi> i d
+<list>
+                     <item>dreſt the C weight qt. 112 <hi>l.</hi> ii d</item>
+                  </list>
+               </item>
+               <item>Hides
+<list>
+                     <item>Buff-Hides the piece ob</item>
+                     <item>Cow-hides or Horſe-hides the dozen iii d</item>
+                  </list>
+               </item>
+               <item>Honey the Barrel i d ob</item>
+               <item>Horſes and Mares, each Horſe or Mare vi d</item>
+               <item>Hops the hundred weight qt. 112. <hi>l.</hi> ii d</item>
+            </list>
+            <list>
+               <head>I</head>
+               <item>INdico the C pound qt. five ſcore ii s</item>
+               <item>Indico Duſt the C pound qt. five ſcore viii d</item>
+               <item>Incle
+<list>
+                     <item>Wrought the dozen pound i d ob</item>
+                     <item>Roles the 12 pieces of 36 yards each piece i d</item>
+                     <item>Unwrought the C <hi>l.</hi> qt. five ſcore iiij d</item>
+                  </list>
+               </item>
+               <item>Iron wrought the hundred weight qt. 112 <hi>l.</hi> i d</item>
+               <item>Iron unwrought the Ton vi d</item>
+               <item>Iron Pots the dozen i d ob</item>
+            </list>
+            <list>
+               <head>L</head>
+               <item>LAttin Vocat
+<list>
+                     <item>Shaven Lattin the C weight qt. 112. <hi>l.</hi> vi d</item>
+                     <item>Black Lattin the C weight, qt. 112 <hi>l.</hi> iii d</item>
+                  </list>
+               </item>
+               <item>Lace
+<list>
+                     <item>Bone-lace of Thread the dozen yards ob</item>
+                     <item>Silk-Bone-Lace the pound qt. 16 Ounces ii d</item>
+                     <item>Silk-lace of all other ſorts the <hi>l.</hi> qt. 16 Ounces i d</item>
+                  </list>
+               </item>
+               <item>Lemonds
+<list>
+                     <item>The thouſand i d</item>
+                     <item>Juice of Lemonds the Pipe vi d</item>
+                     <item>Pickled Lemonds the Pipe iii d</item>
+                  </list>
+               </item>
+               <item>Linſeed the Quarter i d</item>
+               <item>Leaves of Gold the C Leaves qt. five ſcore q</item>
+               <item>Leures for Hawks the dozen ob</item>
+               <pb n="51" facs="tcp:44932:30"/>
+               <item>Leather
+<list>
+                     <item>Bazel Leather the dozen Skins ob</item>
+                     <item>Hangings Gilt the piece iii d</item>
+                     <item>Leather for Masks the dozen pound ii d</item>
+                  </list>
+               </item>
+               <item>Lutes the dozen iiii d</item>
+               <item>Lute-ſtrings
+<list>
+                     <item>Catling the great Groce qt. xii ſmall Groce of Knots i d</item>
+                     <item>Minikins the Groce qt 12. doz. of Knots ob</item>
+                  </list>
+               </item>
+               <item>Linnens
+<list>
+                     <item>
+                        <hi>Brittiſh</hi> Cloth the C. Ells. qt. Five Score ij d</item>
+                     <item>
+                        <hi>Brabant</hi> Cloth, <hi>Emden</hi> Cloth, <hi>Flemiſh</hi> Cloth, <hi>Freeze</hi> Cloth, <hi>Gentiſh</hi> Cloth, <hi>Holland</hi> Cloth, <hi>Iſſingham</hi> Cloth, <hi>Overiſily</hi> Cloth, <hi>Rowſe</hi> Cloth, <hi>Cow-field</hi> Cloth, or Platts, each xxx Ells ij d</item>
+                     <item>Callicoes or Dutties the Piece ob</item>
+                     <item>Cambricks the whole Piece qt. xiij Ells ij d</item>
+                     <item>Damask for Tabling
+<list>
+                           <item>Of <hi>Holland</hi> making the dozen Yards iiij d</item>
+                           <item>Of <hi>Slecia</hi> making the dozen Yards ij d</item>
+                        </list>
+                     </item>
+                     <item>Damask for Tow<g ref="char:EOLhyphen"/>elling and Nap<g ref="char:EOLhyphen"/>kenning
+<list>
+                           <item>Of <hi>Holland</hi> making the Do<g ref="char:EOLhyphen"/>zen Yards i d</item>
+                           <item>Of <hi>Slecia</hi> making the Dozen Yards ij d</item>
+                        </list>
+                     </item>
+                     <item>Diaper for Tabling
+<list>
+                           <item>Of <hi>Holland</hi> making the Dozen Yards i d</item>
+                           <item>Of <hi>Slecia</hi> making the Dozen Yards ob</item>
+                        </list>
+                     </item>
+                     <item>Diap. for Towelling and Napkenning
+<list>
+                           <item>Of <hi>Holland</hi> making the do<g ref="char:EOLhyphen"/>zen Yards i d</item>
+                           <item>Of <hi>Slecia</hi> making the do<g ref="char:EOLhyphen"/>zen Yards ob</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>French</hi> Canvas and Line, Ell and half quarter broad or upwards, the C Ells qt. Six Score iij d</item>
+                     <item>
+                        <hi>French</hi> or <hi>Normandy</hi> Canvas and Line, Narrow Vandales, or Vittry Canvas, Dutch Barras and Heſſens Canvas the C Ells qt. Six Score ij d</item>
+                     <pb n="52" facs="tcp:44932:31"/>
+                     <item>Gutting and Spruce Canvas Drillinges Pack, Duck Hinderlands, middle good Headlock, Muſcovia Linnen narrow, <hi>Hambrough</hi> Cloth Narrow, and Iriſh Cloth the C. Elis qt. Six Score i d</item>
+                     <item>
+                        <hi>Hambrough</hi> and <hi>Slecia</hi> Cloth Broad the C. Ells. qt. Six Score iij d</item>
+                     <item>Poldavis the Bolt i d</item>
+                     <item>Lawns
+<list>
+                           <item>The whole Piece qt. xiij Ells ij d</item>
+                           <item>Callicoe Lawns the Piece ob</item>
+                           <item>French Lawns the piece ob</item>
+                        </list>
+                     </item>
+                     <item>Lockrams the Piece of all ſorts qt. 106 Ells i d ob</item>
+                     <item>
+                        <hi>Southwick</hi> the C. Ells qt. Six Score i d ob</item>
+                     <item>
+                        <hi>Strasbrow</hi> Linnen each xxx Ells i d</item>
+                     <item>Linnens
+<list>
+                           <item>Striped or Tufted Canvas, with Thred the Piece qt. xv Yards i d</item>
+                           <item>Striped, Tufted, or Quilted Canvas with Silk the Piece qt. xv Yards i d</item>
+                        </list>
+                     </item>
+                     <item>Littimus the C. Weight qt. 112 l. i d</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>M</head>
+               <item>MAult the Quarter ob</item>
+               <item>Magnus the hundred Weight qt. 112 l. i d</item>
+               <item>Masks of Velvet or Satten the Dozen i d</item>
+               <item>Maſts
+<list>
+                     <item>Great the Maſt ij d</item>
+                     <item>Middle the Maſt i d</item>
+                     <item>Small the Maſt ob</item>
+                  </list>
+               </item>
+               <item>Mapps Printed the Ream i d</item>
+               <item>Madder
+<list>
+                     <item>Crop Madder, and all other Bale Madder the hundred Weight qt. 112 l. ij d</item>
+                     <item>Fatt Madder the C. Weight qt. 112 l. i d ob</item>
+                     <item>Mull Madder the C. Weight qt. 112 l. ob</item>
+                  </list>
+               </item>
+               <item>Meal the Laſt qt. xij Barrels iiij d</item>
+               <item>Mocado Ends the dozen Pounds i d ob</item>
+            </list>
+            <pb n="53" facs="tcp:44932:31"/>
+            <list>
+               <head>O</head>
+               <item>OArs the hundred, qt. Six Score ij d</item>
+               <item>Oats the Quarter ob</item>
+               <item>Oyl
+<list>
+                     <item>
+                        <hi>Civil</hi> Oyl, <hi>Majorca</hi> Oyl, <hi>Minorca</hi> Oyl, <hi>Province</hi> Oyl, <hi>Portugal</hi> Oyl, and <hi>Sallat</hi> Oyl the Ton ijs viij d</item>
+                     <item>Rape Oyl and Linſeed Oyl the Ton ij s vj d</item>
+                     <item>Train Oyl of <hi>Green-land</hi> or <hi>New-found-Land</hi> the Ton xvj d</item>
+                  </list>
+               </item>
+               <item>Olives the Hogſhead iiij d</item>
+               <item>Onyons
+<list>
+                     <item>The hundred Bunches i d</item>
+                     <item>Seed the C weight qt. 112 l. iij d</item>
+                  </list>
+               </item>
+               <item>Oranges the 1000 i d</item>
+               <item>Orchal the hundred weight qt. 112 l. i d ob</item>
+            </list>
+            <list>
+               <head>P</head>
+               <item>PAck-thred the hundred, qt. Five Score i d ob</item>
+               <item>Pans Vocat
+<list>
+                     <item>Dripping or Frying-pans the C. Weight qt. 112 l. i d ob</item>
+                     <item>Warming-Pans the dozen i d ob</item>
+                  </list>
+               </item>
+               <item>Paper
+<list>
+                     <item>Brown the hundred Bundles vj d</item>
+                     <item>Of all other ſorts each Five Score Reams xx d</item>
+                  </list>
+               </item>
+               <item>Peaſe the Quaater ob</item>
+               <item>Pitch and Tar the Laſt iij d</item>
+               <item>Plates
+<list>
+                     <item>Single, White or Black the C Plates i d</item>
+                     <item>Double, White or Black, the C Plates ij d</item>
+                  </list>
+               </item>
+               <item>Pomegranates the thouſand ij d</item>
+               <item>Pork the Barrel i d ob</item>
+               <item>Pots
+<list>
+                     <item>Of Earth or Stone covered, the C. qt. Five Score i d</item>
+                     <item>Of Earth or Stone uncovered, the C Caſt qt. a Gallon to every Caſt, whether in one Pot or more ij d</item>
+                  </list>
+               </item>
+            </list>
+            <pb n="56" facs="tcp:44932:32"/>
+            <list>
+               <head>Q</head>
+               <item>QUales the Dozen q</item>
+               <item>Quick-ſilver the C Pound qt. Five Score x d</item>
+               <item>Quinces the hundred weight qt. Five Score ob</item>
+            </list>
+            <list>
+               <head>R</head>
+               <item>RApe-ſeed the Quarter i d</item>
+               <item>Rozen the Ton viij d</item>
+               <item>Rice the hundred weight qt. 112 l. i d</item>
+               <item>Rie the Quarter ob</item>
+               <item>Rims for Sieves the Groce qt. 12 doz. ob</item>
+            </list>
+            <list>
+               <head>S</head>
+               <item>SAffron the Pound ob</item>
+               <item>Saffliore the hundred Pound qt. Five Score iiij d</item>
+               <item>Salt the Weigh ij d</item>
+               <item>Salt-peter the hundred weight qt. 112 l. i d ob</item>
+               <item>Sayes
+<list>
+                     <item>Double Says, or <hi>Flanders</hi> Serges, the Piece iij d</item>
+                     <item>
+                        <hi>Hounſcot</hi> Sayes, and Middle Sayes the Piece ij d</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Shumach</hi> the hundred weight qt. 112 l. i d ob</item>
+               <item>Silk Vocat
+<list>
+                     <item>
+                        <hi>Bridges</hi> Silk, <hi>Granadoes, Naples, Organſile, Pole</hi> and <hi>Spaniſh,</hi> Sattin Silk, Slear Silk, Fine and Throne Silk, the Pound containing xvj Oun<g ref="char:EOLhyphen"/>ces, i d</item>
+                     <item>Raw <hi>China</hi> Silk, the pound qt. xxiiij Oun. i d</item>
+                     <item>Ferret or Floret Silk, Fillozel, Sleave Silk courſe the pound qt. xvj Ounces ob</item>
+                     <item>Raw Long Silk the Pound qt. xiiij Ounces ob</item>
+                     <item>Raw Short Silk, and Raw <hi>Morea</hi> Silk the Pound qt. xxiiij Ounces q</item>
+                  </list>
+               </item>
+               <item>Silk Stockings the Pair ob</item>
+               <pb n="57" facs="tcp:44932:32"/>
+               <item>Silk
+<list>
+                     <item>Boradoes of Silk, <hi>Catalopha, China,</hi> Damask Silk, Chamlet, China Grogram, Tabby Grogram, Philloſellas Narrow, Tabbies of Silk Towers, Taffaty, the dozen Yards ij d</item>
+                     <item>Silk Grogram Narrow, Silk Say <hi>Calunaucoes</hi> and Philloſellas Broad, the Dozen Yards iij d</item>
+                     <item>Silk Grograms Broad, Caff or Damask the Dozen Yards iiij d</item>
+                  </list>
+               </item>
+               <item>Silk wrought
+<list>
+                     <item>Sattins
+<list>
+                           <item>
+                              <hi>Bolonia, Lukes, Jean,</hi> and other of like making, the dozen yards vi d</item>
+                           <item>
+                              <hi>Bridges</hi> Sattin, <hi>China</hi> and <hi>Turkey</hi> Sattin the dozen yards i d ob</item>
+                        </list>
+                     </item>
+                     <item>Sarcenets
+<list>
+                           <item>Of <hi>Bolonia</hi> and <hi>Florence</hi> the dozen Ells i d ob</item>
+                           <item>Of <hi>China</hi> the dozen Ells i d</item>
+                        </list>
+                     </item>
+                     <item>Cypres
+<list>
+                           <item>Of Silk Broad the dozen yards ob</item>
+                           <item>Of Silk Narrow, each containing xxiiij yards q</item>
+                        </list>
+                     </item>
+                     <item>Taffaties
+<list>
+                           <item>Ell broad each dozen yards ii d</item>
+                           <item>
+                              <hi>China</hi> and <hi>Levant,</hi> each dozen yards ob</item>
+                        </list>
+                     </item>
+                     <item>Velvets
+<list>
+                           <item>
+                              <hi>China</hi> Velvet, each dozen yards i d</item>
+                           <item>All other Velvets or Pluſhes each dozen yards vi d</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>Skins
+<list>
+                     <item>Cordovant Skins the dozen ii d</item>
+                     <item>Goat Skins in the Hair the dozen i d</item>
+                     <item>Kid Skins of all ſorts the C. qt. five ſcore iii d</item>
+                  </list>
+               </item>
+               <item>Smalts the C pound qt. five ſcore iiii d</item>
+               <item>Spars
+<list>
+                     <item>Bonniſpars the C. qt. five ſcore iii d</item>
+                     <item>Cantſpars the C. qt. ſix ſcore ii d</item>
+                     <item>Small Spars the C. qt. ſix ſcore i d</item>
+                  </list>
+               </item>
+               <item>Stones
+<list>
+                     <item>Dog-ſtones the Laſt vi d</item>
+                     <item>Marble-ſtones the Ton viii d</item>
+                     <item>Mill-ſtones the piece vi d</item>
+                     <item>Quern-ſtones the Laſt ii d</item>
+                  </list>
+               </item>
+               <pb n="58" facs="tcp:44932:33"/>
+               <item>Sword-blades the dozen i d.</item>
+               <item>Staves
+<list>
+                     <item>Pipe or Hogſhead Staves the thouſand vi d</item>
+                     <item>Barrel Staves the thouſand iii d</item>
+                     <item>Firkin Staves the thouſand i d ob</item>
+                  </list>
+               </item>
+               <item>Steel
+<list>
+                     <item>Long Steel, Wiſp Steel, and ſuch like the hundred weight qt. 112 <hi>l.</hi> ii d</item>
+                     <item>Gad Steel the half Barrel iiij d</item>
+                  </list>
+               </item>
+               <item>Succads wet or dry the hundred qt. five ſcore x d</item>
+               <item>Syder the Ton iiij d</item>
+            </list>
+            <list>
+               <head>T</head>
+               <item>TAllow the hundred weight qt. 112 <hi>l.</hi> i d</item>
+               <item>Tapiſtry
+<list>
+                     <item>With Hair the C Flemiſh Ells qt. 5 ſcore iiii d</item>
+                     <item>With Wool the C Flemiſh Ells qt. 5 ſcore vi d</item>
+                     <item>With Caddas the C Flem. Ells qt. 5 ſcore xii d</item>
+                     <item>With Silk the dozen Flemiſh Ells ii d</item>
+                  </list>
+               </item>
+               <item>Tarras the Barrel q</item>
+               <item>Tazels the thouſand q</item>
+               <item>Tykes of all ſorts, the Tyke i d ob</item>
+               <item>Thred
+<list>
+                     <item>
+                        <hi>Bridges</hi> Thred the dozen <hi>l.</hi> i d</item>
+                     <item>
+                        <hi>Outnal</hi> Tred the dozen <hi>l.</hi> i d</item>
+                     <item>Whited-brown, or piecing Thred, the 12 <hi>l.</hi> id ob</item>
+                     <item>Siſters Thred the pound ob</item>
+                     <item>
+                        <hi>Lyons</hi> or <hi>Paris</hi> Thred the Bale qt. C Bolts viii d</item>
+                  </list>
+               </item>
+               <item>Tobacco
+<list>
+                     <item>
+                        <hi>Spaniſh Virinus, Brazil</hi> Tobacco, the C. qt. five ſcore ii s</item>
+                     <item>St. <hi>Chriſtophers</hi> Tobacco, or the like, the C. qt. five ſcore ii d</item>
+                  </list>
+               </item>
+               <item>Tow the C weight qt. 112 <hi>l.</hi> ob</item>
+               <item>Tyles vocat. Pan-tyles, or <hi>Flanders</hi> Tyles the thouſand ii d</item>
+            </list>
+            <list>
+               <head>W</head>
+               <item>WAx the C weight qt. 112 <hi>l.</hi> iv d</item>
+               <item>Wainſcot the C qt. five ſcore xi d</item>
+               <item>Whale-fins the dozen fins i d</item>
+               <pb n="57" facs="tcp:44932:33"/>
+               <item>Wheat the Quarter Eight Buſhels i d</item>
+               <item>Woad
+<list>
+                     <item>
+                        <hi>Iſland</hi> Woad the Ton xii d</item>
+                     <item>
+                        <hi>Tholoſe</hi> Woad the hundred weight qt. 112 <hi>l.</hi> i d</item>
+                  </list>
+               </item>
+               <item>Wood
+<list>
+                     <item>Box-wood the thouſand pieces ii d</item>
+                     <item>
+                        <hi>Brazil</hi> or <hi>Fernando</hi> Buck-wood the hundred weight qt. 112 <hi>l.</hi> iii d.</item>
+                     <item>Brazeletto or <hi>Jamiaca</hi> Wood the hundred weight qt. 112 <hi>l.</hi> i d</item>
+                     <item>Fuſtick the hundred weight qt. 112. l. ob</item>
+                     <item>Red or <hi>Guinny</hi> Wood the C. qt. 112. l. ii d</item>
+                     <item>Sipeet-wood of <hi>Eaſt India</hi> the C. qt 112 l. i d</item>
+                  </list>
+               </item>
+               <item>Wool.
+<list>
+                     <item>Beaver Wool the pound i d</item>
+                     <item>Cotton wool the hundred qt. five ſcore iii d</item>
+                     <item>
+                        <hi>Iriſh</hi>
+                        <list>
+                           <item>Combed the C. qt. five ſcore iv d</item>
+                           <item>Uncombed the C. qt. 112 l. ii d</item>
+                        </list>
+                     </item>
+                     <item>Eſtridge Wool the C weight qt. 112 l. iii d</item>
+                     <item>
+                        <hi>Polonia</hi> wool the hundred weight qt. 112 l. iii d</item>
+                     <item>
+                        <hi>French</hi> Wool the hundred weight qt. 112 l. ii d</item>
+                     <item>Lambs wool the hund. weight qt. 112 l. iii d</item>
+                     <item>
+                        <hi>Spaniſh</hi> Wool the hund. weight qt. 112 l. iiii d</item>
+                     <item>Red Wool the pound q</item>
+                  </list>
+               </item>
+               <item>Wyer, Vocat Lattin Wyer, and all other Wyer the hun<g ref="char:EOLhyphen"/>dred weight iiii d</item>
+               <item>Wine Eager the Ton vi d</item>
+               <item>Wines
+<list>
+                     <item>
+                        <hi>Gaſcoyne</hi> and <hi>French</hi> Wines and all other Wines of the Growth of the <hi>French</hi> King's Domini<g ref="char:EOLhyphen"/>on, the Ton ii s</item>
+                     <item>Rheniſh Wine the Awm vi d</item>
+                     <item>Muskadel, and all other Wines of the Growth of the <hi>Levant,</hi> the Butt xii d</item>
+                     <item>Sack, Canaries, Malagaes, Maderaes, Romneys, Baſtards, Tents and Alicants, the Butt or Pipe xii d</item>
+                  </list>
+               </item>
+            </list>
+            <pb n="58" facs="tcp:44932:34"/>
+            <list>
+               <head>Y</head>
+               <item>YArn
+<list>
+                     <item>Cable yarn the C weight qt. 112 <hi>l.</hi> i d</item>
+                     <item>Camel Grogram, or Moyhair yarn the C. qt. five ſcore xviij d</item>
+                     <item>Cotton yarn the C. qt. five ſcore iiij d</item>
+                     <item>Iriſh yarn the pack qt. Four hundred weight at ſix ſcore to the C. vj d</item>
+                     <item>Raw Linnen yarn <hi>Dutch</hi> or <hi>French,</hi> the C. qt. five ſcore iiij d</item>
+                     <item>Spruce or <hi>Muſcovia</hi> yarn, the C weight at 112 <hi>l.</hi> ij d</item>
+                  </list>
+               </item>
+            </list>
+            <p>
+               <hi>All other Goods not mentioned in this</hi> TABLE, <hi>ſhall pay for</hi> Scavage Duties Inward, <hi>after the Rate of One Penny in the Pound, according as they are Expreſſed or Valued in His Majeſties late Book of</hi> RATES. <hi>And all other not Expreſſed therein, ſhall pay the ſame Rates, according to the true Value.</hi>
+            </p>
+         </div>
+         <div type="table_of_balliage_duties">
+            <head>THE BALLIAGE DUTIES OUTWARDS.</head>
+            <list>
+               <item>BEER the Ton iiij d</item>
+               <item>Canvas the hundred Ells at ſix ſcore ij d</item>
+               <item>Coles the Chaldron i d</item>
+               <item>Drapery
+<list>
+                     <item>Broad Cloth the piece i d ob</item>
+                     <item>Kerſies of all ſorts the piece ob</item>
+                     <item>Perpetuannos the piece ob</item>
+                     <item>Stuffs Woollen or Worſted the ſingle piece ob</item>
+                     <item>Stuffs Woollen or Worſted the double piece i d</item>
+                  </list>
+               </item>
+               <pb n="59" facs="tcp:44932:34"/>
+               <item>Dying Com<g ref="char:EOLhyphen"/>modities
+<list>
+                     <item>Cochinele the C. qt. five ſcore vij d</item>
+                     <item>Indico the C. qt. five ſcore iiij d</item>
+                     <item>Wood of all ſorts for Dyers the C weight qt. 112 <hi>l.</hi> i d</item>
+                  </list>
+               </item>
+               <item>Fuſtians <hi>Engliſh</hi> making each 15 yards ob</item>
+               <item>Grocery
+<list>
+                     <item>Cloves, Mace, Nutmegs, or Cinamon the C. qt. five ſcore vi d</item>
+                     <item>Pepper or Ginger the C. qt. five ſcore ii d</item>
+                     <item>Raiſins the Piece or Frail ob</item>
+                     <item>Raiſins of the Sun the C weight qt. 112 <hi>l.</hi> i d</item>
+                  </list>
+               </item>
+               <item>Iron
+<list>
+                     <item>The Ton unwrought vi d</item>
+                     <item>Wrought the C weight qt. 112 <hi>l.</hi> i d</item>
+                  </list>
+               </item>
+               <item>Lamprones the thouſand o b</item>
+               <item>Lead the Fodder vj d</item>
+               <item>Saffron the Pound ob</item>
+               <item>Salt the Wey ij d</item>
+               <item>Salt-peter the C weight qt. 112 <hi>l.</hi> i d</item>
+               <item>Silk Raw or Throne the Pound qt. ſixteen Ounces q</item>
+               <item>Skins and Furrs
+<list>
+                     <item>Bever-skins the C. qt. five ſcore xviij d</item>
+                     <item>Badger-skins the C. qt. five ſcore vi d</item>
+                     <item>Coney-skins Black the C. qt. five ſcore ij d</item>
+                     <item>Cat-skins the C. qt. five ſcore is ij d</item>
+                     <item>Calve-skins the C. qt. five ſcore ij d</item>
+                     <item>Fox-skins the C. qt. five ſcore vi d</item>
+                     <item>Fitches the Timber i d</item>
+                     <item>Morkins the C. qt. fix ſcore ii d</item>
+                     <item>Ouer-skins the C. qt. five ſcore vj d</item>
+                     <item>Sheep or Lamb-skins the C. qt. ſix ſcore ij d</item>
+                     <item>Squerril-skins the thouſand i d</item>
+                  </list>
+               </item>
+               <item>Tynn or Pewter the C weight qt. 112 <hi>l.</hi> ij d</item>
+               <item>Wax the C weight qt. 112 <hi>l.</hi> ij d</item>
+               <item>Wool of all ſorts the C weight qt. 112 <hi>l.</hi> ij d</item>
+            </list>
+         </div>
+         <div type="table">
+            <pb n="60" facs="tcp:44932:35"/>
+            <head>Other Merchandize, Liquid and Dry, that are not particu<g ref="char:EOLhyphen"/>larly rated in this <hi>Table,</hi> ſhall pay <hi>Balliage-Duties</hi> Out<g ref="char:EOLhyphen"/>ward by their Bulks as followeth:</head>
+            <list>
+               <item>A Great Pack, Truſs or Fardel, containing betwixt fifteen or twenty Clothes, or other Goods to that proportion. xviij d</item>
+               <item>An ordinary Pack, Truſs or Fardel, containing in Bigneſs about 10 or 12 Clothes, or 12 or 14 Bays, or to the like proportion, in Freezes, Cottons, or other Goods xij d</item>
+               <item>A Bale containing three or four Cloths, or four or five Bays, or the like proportion, in other Goods vj d</item>
+               <item>For a great Maund or great Basket viij d</item>
+               <item>For a ſmall Maund or Basket, Poize three hundred weight or under viij d</item>
+               <item>For a Hamper or Coffer, Poize two hundred weight or under iij d</item>
+               <item>For a But or Pipe viij d</item>
+               <item>For a Hogſhead or Puncheon iiij d</item>
+               <item>For a Barrel i d</item>
+               <item>For a Firkin ij d</item>
+               <item>For a Dry Fatt viij d</item>
+               <item>For a Drum Fatt iiij d</item>
+               <item>For a Bale vj d</item>
+               <item>For a great Cheſt or great Caſe viij d</item>
+               <item>For a ſmall Cheſt or Caſe, Poize three hundred weight or under iiij d</item>
+               <item>For a ſmall Box ij d</item>
+               <item>For a great Trunck vj d</item>
+               <item>For a ſmall Trunk, Poize not above two hundred weight iij d</item>
+               <item>For a Bag or Sack iiij d</item>
+               <item>For a Seron iij d</item>
+            </list>
+         </div>
+         <div type="package_table_of_rates">
+            <pb n="61" facs="tcp:44932:35"/>
+            <head>THE PACKAGE TABLE OF RATES.</head>
+            <list>
+               <head>A</head>
+               <item>ARnetto the hundred, qt. five ſcore iij d</item>
+               <item>Aquavitae the Hogſhead iiij d</item>
+               <item>Argal white or red the C weight qt. 112 l. i d ob</item>
+               <item>Aſhes
+<list>
+                     <item>Aſhes, Pot-Aſhes the Barrel, qt. two hundred weight ij d</item>
+                     <item>Sope Aſhes the Laſt xij d</item>
+                  </list>
+               </item>
+               <item>Aule Blades for Shoo-makers the thouſand ob</item>
+            </list>
+            <list>
+               <head>B</head>
+               <item>BArrilla or Saffora the Barrel. qt. two C weight iiij d</item>
+               <item>Beer the Ton vj d</item>
+               <item>Birding-Shot lead the C. weight qt. 112 l. ij d</item>
+               <item>Books the Maund xij d</item>
+               <item>Bottles of Glaſs covered with Leather, the dozen i d</item>
+               <item>Brimſtone the C. weight qt. 112 l. i d</item>
+               <item>Bruſhes the dozen ob</item>
+               <item>Broken Glaſs the Barrel q</item>
+               <item>Buttons Vocat
+<list>
+                     <item>Braſs, Steel, Copper, or Lattin Buttons the great Groce qt. xij ſmall Groce i d</item>
+                     <item>Hair Buttons the great Groce i d</item>
+                     <item>Silk Buttons the great Groce ob</item>
+                     <item>Thred Buttons the great Groce. q</item>
+                  </list>
+               </item>
+               <item>Buckweed the Quarter i d</item>
+               <item>Buckromes of all ſorts the dozen Pieces ij d</item>
+            </list>
+            <pb n="56" facs="tcp:44932:36"/>
+            <list>
+               <head>C</head>
+               <item>CAps for Saylers, Monmouth and others the doz. i d</item>
+               <item>Canary Seed the Buſhel ob</item>
+               <item>Cloaks Old the Piece ob</item>
+               <item>Copperas the C weight qt. 112 l. i d ob</item>
+               <item>Cochenele
+<list>
+                     <item>Silveſter or Campecha the pound ob</item>
+                     <item>Of all other ſorts the pound i d</item>
+                  </list>
+               </item>
+               <item>Cobweb Lawns each fifteen yards i d</item>
+            </list>
+            <list>
+               <head>D</head>
+               <item>DRugs vocat
+<list>
+                     <item>Aſſatetida, Gum Armoniack, Gumlack, Oli<g ref="char:EOLhyphen"/>banum, and Saſſafras Wood, the C. qt. five ſcore vj d</item>
+                     <item>Caſſia Fiſtula the C. qt. five ſcore viij d</item>
+                     <item>Caſſia Lignea the C. l. qt. five ſcore viij d</item>
+                     <item>Cubebs the C. qt. five ſcore vj d</item>
+                     <item>Rubarb the pound i d</item>
+                     <item>Scamony the pound i d</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>E</head>
+               <item>ELephant Teeth the C. qt. five ſcore iiij d</item>
+               <item>Eſtridge Feathers the pound undreſt ob</item>
+            </list>
+            <list>
+               <head>F</head>
+               <item>FIlings of Iron, called Swarfe, the Battel ij d</item>
+               <item>Flasks of Horn the dozen i d</item>
+               <item>Flax dreſt the hundred weight qt. 112 l. iiij d</item>
+               <item>Flax undreſt the C weight qt. 112 l. ij d</item>
+               <item>Frankinſcence the C weight qt. 112 l. i d ob</item>
+               <item>Fiſh
+<list>
+                     <item>Herrings full or ſhotten the Laſt vj d</item>
+                     <item>Stock-Fiſh of all ſorts the Laſt vj d</item>
+                  </list>
+               </item>
+               <pb n="63" facs="tcp:44932:36"/>
+               <item>Fuſtians
+<list>
+                     <item>
+                        <hi>Engliſh</hi> Million the piece, containing two half pieces of fifteen yards the piece i d</item>
+                     <item>
+                        <hi>Venetian, Engliſh</hi> make, each fifteen yards i d</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>G</head>
+               <item>GAules the C weight qt. 112 <hi>l.</hi> ij d</item>
+               <item>Glew the C weight qt. 112 <hi>l.</hi> i d</item>
+               <item>Glovers Clipping the Maund or Basket i d ob</item>
+               <item>Grains
+<list>
+                     <item>Scarlet Powder, and of <hi>Sevil</hi> in Berries, and Grain of <hi>Portugal</hi> or <hi>Rotta</hi> the C <hi>l.</hi> ij s vj d</item>
+                     <item>Grain <hi>French</hi> or <hi>Guinny</hi> the C <hi>l.</hi> iiij d</item>
+                  </list>
+               </item>
+               <item>Garble
+<list>
+                     <item>Of Cloves the C. qt. five ſcore iiij d</item>
+                     <item>Of Almonds the C weight qt. 112 <hi>l.</hi> i d</item>
+                     <item>Of Ginger the C <hi>l.</hi> qt. five ſcore i d</item>
+                     <item>Of Mace the C. qt. five ſcore ix d</item>
+                     <item>Of Pepper the C. qt. five ſcore iij d</item>
+                  </list>
+               </item>
+               <item>Gloves
+<list>
+                     <item>Buck-Leather the dozen pair i d</item>
+                     <item>Gloves with Silk Fringe and faced with Taffaty the dozen pair i d</item>
+                     <item>Gloves lined with Coney or Lamb-skins, or plain, the dozen pair ob</item>
+                  </list>
+               </item>
+               <item>Grocery Vocat
+<list>
+                     <item>Almonds the C weight qt. 112 <hi>l.</hi> ij d</item>
+                     <item>Anniſeeds the C weight qt, 112 <hi>l.</hi> ij d</item>
+                     <item>Cloves the C weight qt. five ſcore xij d</item>
+                     <item>Currants the C weight qt 112 <hi>l.</hi> iij d</item>
+                     <item>Dates the C weight qt. 112 <hi>l.</hi> iiij d</item>
+                     <item>Figgs the C weight qt. 112 <hi>l.</hi> ob</item>
+                     <item>Ginger the C weight qt. five ſcore ix d</item>
+                     <item>Licoriſh the C weight qt. 112 <hi>l.</hi> i d ob</item>
+                     <item>Mace the C pound qt. five ſcore xviij d</item>
+                     <item>Nutmegs the C <hi>l.</hi> qt. five ſcore xiij d</item>
+                     <item>Prunes the C weight qt. 112. <hi>l.</hi> ob</item>
+                     <item>Raiſins great and <hi>Malago</hi> the C. qt. 112 <hi>l.</hi> i d</item>
+                     <item>Raiſins of the Sun the C weight qt. 112 <hi>l.</hi> ii d</item>
+                     <pb n="64" facs="tcp:44932:37"/>
+                     <item>Sugar-Candy the C weight qt. 112 <hi>l.</hi> viij d</item>
+                     <item>Sugar of St. <hi>Thome</hi> and <hi>Pannellis</hi> the C weight qt. 112 <hi>l.</hi> iii d</item>
+                     <item>Sugar of all ſorts the C weight qt. 112 <hi>l.</hi> vi d</item>
+                     <item>Cinnamon the C <hi>l.</hi> qt. five ſcore xii d</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>H</head>
+               <item>HEmp the C weight qt. 112 <hi>l.</hi> i d ob</item>
+               <item>Hatts
+<list>
+                     <item>Bever Hats the piece ii d</item>
+                     <item>Demi-caſters the piece i d</item>
+                     <item>Felt Hatts plain the dozen i d ob</item>
+                     <item>Felt Hatts lined or faced the dozen ii d</item>
+                  </list>
+               </item>
+               <item>Hair
+<list>
+                     <item>Coney hair the hundred qt. five ſcore iiij d</item>
+                     <item>Hair of Goats or Kids the hundred weight qt. five ſcore iiij d</item>
+                     <item>Oxe or Cow-tail Hair the C weight qt. 112 <hi>l.</hi> ob</item>
+                  </list>
+               </item>
+               <item>Horns
+<list>
+                     <item>Ink-horns the ſmall Groce qt. 12 dozen ob</item>
+                     <item>Horns of Lanthorn the thouſand Leaves ii d</item>
+                     <item>Tipps of Horns the thouſand i d</item>
+                  </list>
+               </item>
+               <item>Hops the hundred weight qt. 112 <hi>l.</hi> ii d</item>
+            </list>
+            <list>
+               <head>I</head>
+               <item>INdico of all ſorts the hundred <hi>l.</hi> qt. five ſcore xii d</item>
+               <item>Indico Duſt the hundred <hi>l.</hi> qt. five ſcore vi d</item>
+               <item>
+                  <hi>India</hi> Hides the hundred qt. five ſcore xviii d</item>
+               <item>
+                  <hi>Iriſh</hi> Rugs the piece i d</item>
+               <item>Iron the Ton unwrought vi d</item>
+               <item>Iron wrought the hundred weight i d</item>
+               <item>Iron Spurs the dozen pair i d</item>
+               <item>Ivory Combs the dozen pound ii d</item>
+            </list>
+            <list>
+               <head>K</head>
+               <item>
+                  <hi>LOndon</hi> Knives ordinary the ſmall Groce iii d</item>
+               <item>
+                  <hi>Sheffield</hi> Knives the ſmall Groce i d ob</item>
+               <item>Shoo-makers paring Knives the ſmall Groce ob</item>
+            </list>
+            <pb n="65" facs="tcp:44932:37"/>
+            <list>
+               <head>L</head>
+               <item>LAce
+<list>
+                     <item>Bone-lace of Thread the dozen yards ob</item>
+                     <item>Silk-lace the pound qt. ſixteen Ounces i d ob</item>
+                  </list>
+               </item>
+               <item>Lamparns the thouſand i d ob</item>
+               <item>Lead the Fodder viij d</item>
+               <item>Lemonds pickled the Pipe iii d</item>
+               <item>Lemonds Juyce the Pipe vi d</item>
+               <item>Linſeed the Quarter ob</item>
+               <item>Linnen
+<list>
+                     <item>Callicoe the piece ob</item>
+                     <item>Cambricks two half pieces qt. xiii Ells i d ob</item>
+                     <item>Damask for Tabling of all ſorts, the 12 yards ii d</item>
+                     <item>Damask for Towelling and Napkenning, of all other ſorts the dozen yards i d</item>
+                     <item>Diaper of all ſorts for Tabling, the 12 yards i d</item>
+                     <item>Diaper for Towelling and Napkenning of all other ſorts, the dozen yards ob</item>
+                     <item>Lawns the piece qt. xiii Ells i d ob</item>
+                     <item>Linnen Cloth, called <hi>Brabant, Emden, Flemiſh</hi> Freeze, <hi>Gentiſh</hi> Holland, <hi>Iſingham, Overiſilis</hi> and <hi>Rows</hi> Cloth, each 30 Ells ii d</item>
+                     <item>
+                        <hi>French</hi> or <hi>Normandy</hi> Canvas the C Ells qt. ſix ſcore iii d</item>
+                     <item>
+                        <hi>Dutch</hi> Barras, <hi>Heſſens,</hi> and <hi>Vitry</hi> Canvas the hun<g ref="char:EOLhyphen"/>dred Ells qt. ſix ſcore iii d</item>
+                     <item>Canvas tufted, ſtrip'd or quilted with Copper, Silk, or Thread, or ſuch like, the Piece qt. fifteen yards i d</item>
+                  </list>
+               </item>
+               <item>Linnen Shreds the Maund ii d</item>
+            </list>
+            <list>
+               <head>M</head>
+               <item>MAdder, all but Mull Madder, the C weight qt. 112 <hi>l.</hi> ii d</item>
+               <item>Mellaſſes the Hogſhead iiii d</item>
+               <item>Muſtard-ſeed the C weight qt. 112 <hi>l.</hi>
+               </item>
+            </list>
+            <pb n="66" facs="tcp:44932:38"/>
+            <list>
+               <head>N</head>
+               <item>Nails
+<list>
+                     <item>Chair Nails, Braſs or Copper the 1000 ob</item>
+                     <item>Copper Nails, Roſe Nails and Saddle Nails, the Sum qt. 10000 ob</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>O</head>
+               <item>OKer Red or Yellow the C weight qt. 112 l. i d</item>
+               <item>Onion-ſeed the C weight qt. 112 l. iiij d</item>
+               <item>Orchal the C weight qt. 112 l. i d</item>
+               <item>Oxe-Bones the thouſand i d</item>
+               <item>Oxe-Guts the Barrel<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ij d</item>
+               <item>Oyl
+<list>
+                     <item>
+                        <hi>Civil</hi> Oyl, <hi>Majorca</hi> Oyl, <hi>Minorca</hi> Oyl, <hi>Province</hi> Oyl, <hi>Portugal</hi> Oyl, Linſeed Oyl, or Rape Oyl the Ton xvj d</item>
+                     <item>Train or Whale Oyl the Ton viij d</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>P</head>
+               <item>PAper printed, or Copy Paper, the C Reams qt. five Score xviij d</item>
+               <item>Pewter the C weight qt. 112 l. iiij d</item>
+            </list>
+            <list>
+               <head>R</head>
+               <item>RApe-ſeed the Quarter i d</item>
+               <item>Rape Cakes the thouſand ob</item>
+               <item>Red Lead the C weight qt. 112 l. i d</item>
+               <item>Red Earth the C weight qt. 112 l. ob</item>
+               <item>Rice the C. weight qt. 112 l. i d</item>
+               <item>Rozen the Ton vj d</item>
+            </list>
+            <list>
+               <head>S</head>
+               <item>SAffron the pound i d</item>
+               <item>Salt the weigh ij d</item>
+               <item>Salt-peter the C. weight qt. 112 l. ij d</item>
+               <item>Sea-horſe Teeth the C. weight qt. five ſcore x d</item>
+               <item>Sea Coles the Chaldron iiij d</item>
+               <pb n="67" facs="tcp:44932:38"/>
+               <item>Stockings
+<list>
+                     <item>Childrens Stockings the dozen pair ob</item>
+                     <item>Kerkſey or Leather Stockings the 12 pair i d</item>
+                     <item>Silk Stockings the pair ob</item>
+                     <item>Worſted Stockings the dozen pair ij d</item>
+                     <item>Wollen knit Stockings the doz. pair i d ob</item>
+                  </list>
+               </item>
+               <item>Shumack the C weight qt. 112 l. ij d</item>
+               <item>Skins and Furrs
+<list>
+                     <item>Badger-skins the C. qt. five ſcore vj d</item>
+                     <item>Bever-skins the C. qt. five ſcore ij s vi d</item>
+                     <item>Cat-skins the C. qt. five ſcore iiij d</item>
+                     <item>Calve-skins the C. qt. five ſcore viii d</item>
+                     <item>Coney-skins grey, tawed, ſeaſoned, or ſtag the C. qt. ſix ſcore ij d</item>
+                     <item>Coney-skins Black the C. qt. ſix ſcore ii d ob</item>
+                     <item>Elk-skins the piece ob</item>
+                     <item>Fitches the Timber i d</item>
+                     <item>Fox-skins the C. qt. five ſcore viii d</item>
+                     <item>Jennet-skins Black, ſeaſoned, or Raw ob</item>
+                     <item>Kid-skins the C. qt. five ſcore ii d</item>
+                     <item>Lamb-skins tawed or in Oyl the C. qt. ſix ſcore vi d</item>
+                     <item>Morkins tawed or raw the C. qt. ſix ſcore iiii d</item>
+                     <item>Otter-skins the C. qt. five ſcore viii d</item>
+                     <item>Rabbet-skins the C. qt. five ſcore i d</item>
+                     <item>Sheep-skins the C. qt. ſix ſcore vi d</item>
+                     <item>Sheep-pelts the C. qt. five ſcore iii d</item>
+                     <item>Squerril-skins the thouſand iii d</item>
+                  </list>
+               </item>
+               <item>Silk of all ſorts raw the l. of xvi Ounces i d</item>
+               <item>Silk Nubs, or Husks of Silk the C l. qt. xxi Ounces to a pound iiii d</item>
+               <item>Silk Engliſh Throne the l. qt. xvi Ounces i d</item>
+               <item>Silver vocat Quick-Silver, the hundred containing five ſcore viij d</item>
+               <item>Slip the Barrel i d</item>
+               <pb n="68" facs="tcp:44932:39"/>
+               <item>Stuffs vocat
+<list>
+                     <item>Buffins the Piece broad qt. 14 yards ii d</item>
+                     <item>Buffins the piece narrow qt. 14 yards i d</item>
+                     <item>Bridgewaters the Piece ii d</item>
+                     <item>Carral the Piece i d</item>
+                     <item>Cametians the Piece qt. 25 yards ii d</item>
+                     <item>Chamblets or Grograms the Piece, qt. about four<g ref="char:EOLhyphen"/>teen or fifteen yards ii d</item>
+                     <item>Damaſellours, or Damaſins the piece ii d</item>
+                     <item>Durance the piece i d</item>
+                     <item>Dimaty, each 30 yards i d</item>
+                     <item>Floramedas the piece i d</item>
+                     <item>Fugaratoes the piece ii d</item>
+                     <item>Hangings of <hi>Briſtow,</hi> or ſtript Stuff, the piece iiii d</item>
+                     <item>Lindſey-woolſey the piece i d ob</item>
+                     <item>Liles the Piece, Broad or Narrow, not above 15 yards ii d</item>
+                     <item>Mockadoes double the piece qt. 28 yards ii d</item>
+                     <item>Mockadoes ſingle or tufted the piece qt. fourteen yards i d</item>
+                     <item>Moy-hair the piece qt. about 15 yards i d ob</item>
+                     <item>Meſſellawny the piece qt. 30 yards i d</item>
+                     <item>Perpetuanoes the Piece Ell Broad ii d ob</item>
+                     <item>Paragon or Paropas the piece ii d</item>
+                     <item>Piramides or Maramuffe the piece narrow i d</item>
+                     <item>Piramides or Maramuffe the Broad piece ii d</item>
+                     <item>Raſhes of all ſorts the piece, about 24 yards iiii d</item>
+                     <item>Sayes, called Hounſcot or Mild the piece iii d</item>
+                     <item>Sayes of all other ſorts, the piece ii d ob</item>
+                     <item>Serges double the Piece yard broad qt. twenty four yards iii d</item>
+                  </list>
+               </item>
+               <item>Sope
+<list>
+                     <item>Hard Caſtle the C weight qt. 112. l. ii d</item>
+                     <item>The Barrel iii d</item>
+                  </list>
+               </item>
+               <item>Spectacles without Caſes the Groce 12 dozen ob</item>
+               <item>Succads wet or dry the C l. qt. five ſcore viii d</item>
+            </list>
+            <pb n="69" facs="tcp:44932:39"/>
+            <list>
+               <head>T</head>
+               <item>TAllow the hundred weight qt. 112 l. i d</item>
+               <item>Tapiſtry
+<list>
+                     <item>With Hair the C Flemiſh Ells qt. 5 ſcore iiij d</item>
+                     <item>With Wool the C Flemiſh Ells qt. 5 ſcore vi d</item>
+                     <item>With Caddas the C Flemiſh Ells qt. 5 ſcore xij d</item>
+                     <item>With Silk the dozen Flemiſh Ells ij d</item>
+                  </list>
+               </item>
+               <item>Taffaty
+<list>
+                     <item>Taffaty Ell Broad the dozen yards ij d</item>
+                     <item>Silk Taffaty Broad the dozen yards iiij d</item>
+                     <item>Silk Taffaty Narrow the dozen yards ii d</item>
+                  </list>
+               </item>
+               <item>Thred White or Brown, or coloured, the doz. yards i d</item>
+               <item>Thred Points the great Groce ob</item>
+               <item>Tiffany each dozen yards i d</item>
+               <item>Tobacco
+<list>
+                     <item>Spaniſh Tobacco the C. qt. five ſcore ii s</item>
+                     <item>Of all other ſorts the C. qt. five ſcore vi d</item>
+                  </list>
+               </item>
+               <item>Tyn
+<list>
+                     <item>Tyn unwrought the C weight qt. 112 l. iii d ob</item>
+                     <item>Tyn wrought the C weight qt. 112 l. iiii d</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>V</head>
+               <item>VElures
+<list>
+                     <item>
+                        <hi>Engliſh</hi> the ſingle piece ii d</item>
+                     <item>
+                        <hi>Engliſh</hi> the double piece ii d</item>
+                  </list>
+               </item>
+               <item>Vinegar of Wine the Ton ii d ob</item>
+            </list>
+            <list>
+               <head>W</head>
+               <item>WAX
+<list>
+                     <item>
+                        <hi>Engliſh</hi> Wax the C weight qt. 112 l. iv d</item>
+                     <item>
+                        <hi>Engliſh</hi> Hard Wax the C weight qt. five ſcore viij d</item>
+                  </list>
+               </item>
+               <item>Woollen
+<list>
+                     <item>Bays ſingle the piece ii d</item>
+                     <item>Bays double the piece iv d</item>
+                     <item>Bays called Minikin Bays, the piece vi d</item>
+                     <item>Broad Cloth the ſhort piece qt. 24 yards vi d</item>
+                     <item>Broad Cloth the long piece qt. 32 yards viii d</item>
+                     <item>Cotton of all ſorts the hundred Goads vi d</item>
+                     <item>Devonſhire Dozens the Piece i d</item>
+                     <item>Fizadoes the piece iii d</item>
+                  </list>
+               </item>
+               <pb n="70" facs="tcp:44932:40"/>
+               <item>Drapery vocat
+<list>
+                     <item>Kerſies of all ſorts the piece ij d</item>
+                     <item>Liſts of Cloth the thouſand yards vi d</item>
+                     <item>Northern Dozens the ſingle piece iij d</item>
+                     <item>Northern Dozens the double piece vj d</item>
+                     <item>Penny-ſtones the piece ij d</item>
+                     <item>
+                        <hi>Spaniſh</hi> Cloth <hi>Engliſh</hi> making each 20 yards vj d</item>
+                  </list>
+               </item>
+               <item>Waſtcoats
+<list>
+                     <item>Of Kerſey or Flannel the Dozen ij d</item>
+                     <item>Of Woollen Knit the Dozen iiij d</item>
+                     <item>Of Worſted Knit the Piece ob</item>
+                     <item>Wrought with Cruel the Piece q</item>
+                     <item>Wrought with Silk the Piece i d</item>
+                  </list>
+               </item>
+               <item>Wool
+<list>
+                     <item>Cotton Wool the C. qt. five ſcore iij d</item>
+                     <item>Eſtridge Wool the C Weight qt. 112. l. ij d</item>
+                     <item>French Wool the C. Weight qt. 112 l. ii d</item>
+                     <item>Spaniſh Wool the C. Weight qt. 112 l. iiij d</item>
+                  </list>
+               </item>
+               <item>Worm-ſeed the hundred pound, qt. five ſcore vj d</item>
+               <item>Wood
+<list>
+                     <item>Box-wood the C Weight qt. 112. l. ob</item>
+                     <item>Brazel-wood the C. Weight qt. 112 l. iij d</item>
+                     <item>Ebony-wood the C weight qt. 112 <hi>l.</hi> i d ob</item>
+                     <item>Fuſtick-wood the C weight qt. 112 l. ob</item>
+                     <item>Red-wood the C weight qt. 112 l. i d ob</item>
+                  </list>
+               </item>
+               <item>Wines
+<list>
+                     <item>
+                        <hi>French</hi> Wines of all ſorts the Ton viij d</item>
+                     <item>Muskadels and Wines of the <hi>Levant,</hi> the Butt vj d</item>
+                     <item>Sacks, Canaries, <hi>Maderoes, Romneys</hi> and <hi>Hullucks,</hi> the Butt or Pipe vj d</item>
+                  </list>
+               </item>
+               <item>Cotton Yarn the C. qt. Five Score iiij d</item>
+               <item>Grogram or Moyhair Yarn the C. qt. five ſcore xviij d</item>
+               <item>Raw Linnen Yarn of all ſorts the C weight qt. five ſcore iiij d</item>
+            </list>
+            <p>
+               <hi>All other Goods not mentioned in this</hi> TABLE <hi>ſhall pay for</hi> Paccage-Duties <hi>after the rate of One Penny in the Pound, according as they are expreſſed or valued in His Majeſties late Book of</hi> Rates; <hi>and all other not expreſſed therein ſhall pay the ſame Rate, according to their value.</hi>
+            </p>
+            <pb n="71" facs="tcp:44932:40"/>
+            <p>For every Entry in the Packers Book, for writing Bills to each Entry Outward, as uſually they have done xii d</p>
+            <p>
+               <hi>The Strangers ſhall pay the Labouring Porters for making up of their Goods, at their own charge, as alwayes they have done.</hi>
+            </p>
+            <p>
+               <hi>The Strangers ſhall pay the Water-ſide Porters, belonging to the</hi> Paccage Offico, <hi>ſuch Fees and Duties, for Landing and Shipping their Goods, as they have uſually paid within theſe ten years laſt paſt.</hi>
+            </p>
+         </div>
+         <div type="table">
+            <head>The <hi>PACKERS</hi> Water-ſide PORTERS TABLE of DUTIES FOR Landing Strangers GOODS, and the like DUTIES or RATES to be paid unto them for Shipping out their GOODS.</head>
+            <list>
+               <item>
+                  <hi>IMPRIMIS,</hi> for a Butt of Currants xvj d</item>
+               <item>For a Carratel of Currants viij d</item>
+               <item>For a Quarter Roll of Currants iiij d</item>
+               <item>For a Bag of Currants iiij d</item>
+               <item>For Pieces of Raiſins the Ton xx d</item>
+               <item>For a Barrel of Raiſins iiij d</item>
+               <item>For all ſorts of Puncheons vj d</item>
+               <item>For a Barrel of Figgs ij d</item>
+               <item>For Tapnets and Frails of Figs per Ton xx d</item>
+               <pb n="72" facs="tcp:44932:41"/>
+               <item>For Brazil or other Wood for Dying, <hi>per</hi> Ton xx d</item>
+               <item>For Iron the Ton xiiij d</item>
+               <item>For Copperas the Ton xiv d</item>
+               <item>For Oyl, Wine, or Vinegar <hi>per</hi> Ton xiv d</item>
+               <item>For Hemp and Flax the Laſt xx d</item>
+               <item>For looſe Flax and Tow the hundred weight ii d</item>
+               <item>For a great Bag of Tow viij d</item>
+               <item>For a ſmall Bag of Tow iv d</item>
+               <item>For a great Bag of Hops viij d</item>
+               <item>For a Packet or little Bag of Hops iv d</item>
+               <item>For Packs, Truſſes, Flats, or Maunds <hi>per</hi> piece viij d</item>
+               <item>For a great Cheſt viij d</item>
+               <item>For a ſmall Cheſt iv d</item>
+               <item>For all Caſes, Barrels, or Bales <hi>per</hi> piece iv d</item>
+               <item>For a Bale of Madder viij d</item>
+               <item>For a Bale of Ginger, Shumack, qt. 400 weight viij d</item>
+               <item>For a Faggot of Steel i d</item>
+               <item>For any Serrions the Piece iv d</item>
+               <item>For a Fat of Pot-aſhes viij d</item>
+               <item>For a Laſt of Sope-aſhes xii d</item>
+               <item>For a Laſt of Pitch or Tar xii d</item>
+               <item>For a Laſt of Fiſh xii d</item>
+               <item>For Wainſcots the C. qt. ſix ſcore v s</item>
+               <item>For Clapboards the hundred qt. ſix ſcore vj d</item>
+               <item>For Deal Boards the hundred qt. ſix ſcore xvi d</item>
+               <item>For a great Maſt v s</item>
+               <item>For a middle Maſt ii s vi d</item>
+               <item>For a ſmall Maſt xv d</item>
+               <item>For great Balks the C. qt. ſix ſcore v s</item>
+               <item>For middle Balks the hundred qt. ſix ſcore ii s vi d</item>
+               <item>For ſmall Balks the hundred qt. ſix ſcore xv d</item>
+               <item>For a Mill-ſtone v s</item>
+               <item>For a Dog-ſtone ii s vi d</item>
+               <item>For a Woolf-ſtone ii s</item>
+               <pb n="73" facs="tcp:44932:41"/>
+               <item>For a Yard-ſtone iij d</item>
+               <item>For a Grindle-ſtone xii d</item>
+               <item>For a Step-ſtone or Grave-ſtone viii d</item>
+               <item>For Quern-ſtones the Laſt xii d</item>
+               <item>For Emry-ſtones the Ton xiiij d</item>
+               <item>For x C weight of <hi>Holland</hi> Cheeſe xii d</item>
+               <item>For Rozen the Ton xiiii d</item>
+               <item>For Woad the Ton xiiii d</item>
+               <item>For a Cheſt of Sugar vi d</item>
+               <item>For half Wainſcots the hundred qt. ſix ſcore ii s. vi d</item>
+               <item>For raw hides the hundred qt. five ſcore v s</item>
+               <item>For Bonniſpars the hundred qt. ſix ſcore vi d</item>
+               <item>For ſmall Spars the hundred qt. ſix ſcore iiii d</item>
+               <item>For Ends of Bonniſpars the hundred qt. ſix ſcore ix d</item>
+               <item>For a Horſe, Gelding, or Mare ii s vi d</item>
+               <item>For Allom the Ton xx d</item>
+               <item>For Heath for Bruſhes the C weight qt. 112 <hi>l.</hi> i d</item>
+               <item>For Iron Pots the dozen iii d</item>
+               <item>For Rings of Wyer looſe, the Ring ob</item>
+               <item>For Pipe-ſtaves the thouſand ii s vi d</item>
+               <item>For Rheniſh Wine the Awm vi d</item>
+               <item>For Bur-ſtones the hundred qt. five ſcore ii s vi d</item>
+               <item>For half Packs of Tazels the piece iiii d</item>
+               <item>For Wicker Bottles the dozen ob</item>
+               <item>For Stone the hundred containing five ſcore i d</item>
+               <item>For looſe Fiſh the hundred landing iii d</item>
+               <item>For a Barrel of Salmon ii d</item>
+               <item>For a Barrel of Stubb Eeles ii d</item>
+               <item>For a Bundle of Basket-Rods ob</item>
+               <item>For a Ton of Cork xx d</item>
+               <item>For a thouſand of Oxe-bones xii d</item>
+               <item>For a thouſand Tips of Horns vi d</item>
+               <item>For a thouſand of Shank-bones xii d</item>
+               <item>For Brimſtone the Ton looſe xv d</item>
+               <pb n="74" facs="tcp:44932:42"/>
+               <item>For a Fodder of Lead xiiii d</item>
+               <item>For Rimes for Sieves the Load xij d</item>
+               <item>For a Load of Fans xij d</item>
+               <item>For a Load of Bulruſhes viij d</item>
+               <item>For a hundred Ream of Paper looſe xii d</item>
+               <item>For a Barrel of Tarras ii d</item>
+               <item>For a Barrel of Ling ii d</item>
+               <item>For a Keg of Sturgeon ob</item>
+               <item>For Iron Backs of Chimneys the Piece i d</item>
+               <item>For a C weight of Elephants-teeth i d</item>
+               <item>For Copper and Iron Plates <hi>per</hi> piece ob</item>
+               <item>For an hundred ſmall Barrels of Blacking xii d</item>
+               <item>For a dozen of Scales i d</item>
+               <item>For a hundred of Oars ii s vi d</item>
+               <item>For every xx Sugar Flags iiij d</item>
+               <item>For a Barrel of Shot iiij d</item>
+               <item>For a Bundle of Canes i d</item>
+               <item>For a Cage of Quails iiij d</item>
+               <item>For a Cage of Pheſants iiij d</item>
+               <item>For a Winch of Cable Yarn iiij d</item>
+               <item>For a Firkin of Shot ij d</item>
+            </list>
+            <p>
+               <hi>All other Goods not mentioned in this</hi> Table, <hi>ſhall pay</hi> Portage-Duties <hi>as other Goods, do of like Bulk or Con<g ref="char:EOLhyphen"/>dition herein expreſſed.</hi>
+            </p>
+            <p>Mo<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>this Character</hi> qt. <hi>ſignifieth</hi> containing; o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>ſtands for</hi> Half-penny <hi>and not</hi> (Six-pence) q <hi>ſtands for a</hi> Farthing, i d <hi>a</hi> Penny, v<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>for</hi> Six pence, and xviij <hi>for</hi> Eighteen Pence, <hi>th<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gh<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> theſe</hi> Tables.</p>
+         </div>
+         <div type="part">
+            <pb n="75" facs="tcp:44932:42"/>
+            <head>
+               <hi>CHARLES</hi> 2. <hi>Chart.</hi> 1.</head>
+            <p>Now his preſent Majeſty, at the humble Petition of the Major, Commonalty, and Citizens of the City of <hi>London,</hi> of his ſpecial Grace and certain Knowledge, and meer Motion, and for divers good Cauſes and Conſiderations him thereun<g ref="char:EOLhyphen"/>to eſpecially moving, doth confirm all and ſingular the Let<g ref="char:EOLhyphen"/>ters Patents, Charters and Confirmations, Reſtitutions, Cu<g ref="char:EOLhyphen"/>ſtoms, Ordinances, Explanations, Articles, and all other things whatſoever in the ſaid Letters-Patents, Charters, Grants, and Confirmations, or any of them, contained, recited, ſpecified, confirmed, explained or mentioned; And all and ſingular, the Lands, Tenements, Offices, Ju<g ref="char:EOLhyphen"/>riſdictions, Authorities, Priviledges, Liberties, Franches, Freedoms, Immunities, Liberties, Cuſtoms, and Heredi<g ref="char:EOLhyphen"/>taments whatſoever, which the ſaid Major, Commonalty and Citizens of the City of <hi>London</hi> or their Predeceſſors, by the name of the Major; Commonalty and Citizens of the City of <hi>London;</hi> or by the name of the Major, Al<g ref="char:EOLhyphen"/>dermen, Citizens and Commonalty of <hi>London;</hi> or by the name of the Major and Citizens of <hi>London;</hi> or by the name of the Major and Commonalty of the City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> or by the name of the Citizens of the City of <hi>Lon<g ref="char:EOLhyphen"/>don;</hi> or by the name of the Barons of <hi>London;</hi> or by the name of the Barons of the City of <hi>London,</hi> or by any other Name whatſoever, by Reaſon or Force of the ſaid Let<g ref="char:EOLhyphen"/>ters Patents, Charters or Confirmations before mentioned, or of any Uſe or Uſes, Preſcription or Preſcriptions, or any other lawful Means whatſoever, at any time or times heretofore have had or reaſonably uſed or exerciſed (ex<g ref="char:EOLhyphen"/>cept as before is excepted) and ratifying for him and his Succeſſors (as much as in him lies) accepting and appro<g ref="char:EOLhyphen"/>ving
+<pb n="76" facs="tcp:44932:43"/> them and every of them to the ſaid Major and Commonalty and Citizens of the City of <hi>London</hi> aforeſaid and their Succeſſors, doth ratifie and confirm by the ſaid Letters Patents, To have, hold, enjoy and exerciſe all and ſingular the Premiſes aforeſaid (except before except<g ref="char:EOLhyphen"/>ed) to the ſaid Major and Commonalty, and Citizens of <hi>London</hi> aforeſaid, and their Succeſſors for ever, as fully, freely, and entirely, and in as ample manner to perform, as the ſame are before mentioned, to be given and granted or as the ſame, otherwiſe by Uſe, Preſcription, or any Legal way or Right whatſoever, have heretofore reſpe<g ref="char:EOLhyphen"/>ctively had, obtained, or enjoyed, as if the ſame were ſeparately, ſingly, and nominally, in and by theſe ſaid Letters Patents expreſſed, named, declared, granted, and manifeſted. And further, he Wills by the ſaid Letters Patents, and doth for him, his Heirs and Succeſſors, grant to the Major, Commonalty, and Citizens of the City of <hi>London</hi> aforeſaid, and their Succeſſors, that theſe Letters Patents ſhall be, in and by all things according to the true Intent thereof, good, firm, valid, and effectual in the Law, notwithſtanding any miſnaming, or any ill or falſe naming or Recital in the ſame contained; or any Statute, Ordinance, Proviſion, Proclamation, or Reſtriction here<g ref="char:EOLhyphen"/>tofore, in any wiſe had or made. And grants <hi>&amp;c.</hi> that no Fine be paid to the Hamper, although expreſs menti<g ref="char:EOLhyphen"/>oned, <hi>&amp;c.</hi>
+            </p>
+            <closer>
+               <dateline>Dated at <hi>Weſtminſter</hi> 
+                  <date>the 24th day of <hi>June,</hi> in the 15th year of his now Majeſties Reign.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
